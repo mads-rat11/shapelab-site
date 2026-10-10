@@ -53,7 +53,7 @@ nav .wrap{display:flex;align-items:center;justify-content:space-between;gap:16px
 .btn-sm{padding:10px 14px;font-size:14px}
 
 /* hero */
-.hero{display:grid;grid-template-columns:1.05fr .95fr;gap:48px;align-items:center;padding-block:72px 56px}
+.hero{display:grid;grid-template-columns:.95fr 1.05fr;gap:48px;align-items:center;padding-block:72px 56px}
 @media (max-width:900px){.hero{grid-template-columns:1fr;padding-block:48px 40px;gap:36px}}
 .hero h1{font-size:clamp(40px,6.4vw,76px);font-weight:700}
 .hero h1 em{font-style:normal;color:var(--accent)}
@@ -230,6 +230,60 @@ details p{padding-bottom:22px;color:var(--muted);max-width:44em}
 .msg-actions{display:flex;gap:8px}
 .pill{font-size:13px;font-weight:600;padding:6px 14px;border-radius:999px;border:1px solid var(--line)}
 .pill.solid{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+/* hero dashboard preview: a deliberately always-dark product window */
+.dp{position:relative;min-width:0;display:grid;gap:10px;color:#E8EBF1}
+.dp-glow{position:absolute;inset:8% -4% -6% 6%;background:radial-gradient(60% 60% at 70% 30%,rgba(126,146,255,.55),transparent 70%),radial-gradient(50% 50% at 20% 80%,rgba(0,196,204,.30),transparent 70%);filter:blur(40px);z-index:0;pointer-events:none}
+.dp-win{position:relative;z-index:1;background:linear-gradient(180deg,#141925,#0B0E14);border:1px solid rgba(255,255,255,.09);border-radius:16px;overflow:hidden;box-shadow:0 0 0 1px rgba(0,0,0,.4),0 40px 80px -30px rgba(10,14,40,.7),inset 0 1px 0 rgba(255,255,255,.06)}
+.dp-top{display:flex;align-items:center;gap:12px;padding:12px 16px;border-bottom:1px solid rgba(255,255,255,.07);font:500 12px/1 var(--mono);color:#9AA3B2}
+.dp-dots{display:flex;gap:6px}.dp-dots i{width:9px;height:9px;border-radius:50%;background:#2A3140;display:block}
+.dp-title{color:#E8EBF1;font-family:var(--body);font-weight:600;font-size:13px}
+.dp-live{display:inline-flex;align-items:center;gap:6px;color:#4CC28A;margin-left:auto}
+.dp-live i{width:7px;height:7px;border-radius:50%;background:#4CC28A;box-shadow:0 0 0 0 rgba(76,194,138,.6);animation:dppulse 2s infinite}
+@keyframes dppulse{70%{box-shadow:0 0 0 7px rgba(76,194,138,0)}100%{box-shadow:0 0 0 0 rgba(76,194,138,0)}}
+.dp-range{padding:5px 8px;border:1px solid rgba(255,255,255,.1);border-radius:6px}
+.dp-body{display:grid;grid-template-columns:44px 1fr}
+.dp-side{display:flex;flex-direction:column;align-items:center;gap:14px;padding:16px 0;border-right:1px solid rgba(255,255,255,.07);color:#5D6677;font-size:15px}
+.dp-side .on{color:#7E92FF}
+.dp-main{padding:14px;display:grid;gap:12px;min-width:0}
+.dp-kpis{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.dp-kpi{background:rgba(255,255,255,.035);border:1px solid rgba(255,255,255,.07);border-radius:10px;padding:10px 12px;display:grid;gap:3px;min-width:0}
+.dp-kpi span{font:500 11px/1.2 var(--mono);color:#8892A4;letter-spacing:.03em}
+.dp-kpi b{font:700 22px/1.1 var(--display);font-variant-numeric:tabular-nums;color:#F4F6FA;white-space:nowrap}
+.dp-kpi em{font:500 11px/1.2 var(--mono);font-style:normal}
+.dp-kpi .up{color:#4CC28A}.dp-kpi .warn{color:#E3A266}
+.dp-chart{background:rgba(255,255,255,.025);border:1px solid rgba(255,255,255,.07);border-radius:10px;padding:10px 12px 6px}
+.dp-chart-head{display:flex;justify-content:space-between;gap:8px;font:500 11px/1.2 var(--mono);color:#8892A4;margin-bottom:6px;flex-wrap:wrap}
+.dp-legend{display:inline-flex;align-items:center;gap:6px}
+.dp-legend i{width:10px;height:2px;display:inline-block;border-radius:2px}.dp-legend .r{background:#7E92FF}.dp-legend .s{background:#5D6677;margin-left:6px}
+.dp-chart svg{width:100%;height:96px;display:block;overflow:visible}
+.dp-grid line{stroke:rgba(255,255,255,.06);stroke-width:1;vector-effect:non-scaling-stroke}
+.dp-area{fill:url(#dpfill)}
+.dp-line{fill:none;stroke:#7E92FF;stroke-width:2.2;vector-effect:non-scaling-stroke;stroke-dasharray:600;stroke-dashoffset:0;animation:dpdraw 2.2s ease-out}
+.dp-spend{fill:none;stroke:#5D6677;stroke-width:1.6;stroke-dasharray:4 4;vector-effect:non-scaling-stroke}
+.dp-end{fill:#7E92FF;stroke:#0B0E14;stroke-width:2;vector-effect:non-scaling-stroke}
+@keyframes dpdraw{from{stroke-dashoffset:600}}
+.dp-queue{display:grid;gap:8px}
+.dp-q-head{display:flex;justify-content:space-between;font:500 11px/1.2 var(--mono);color:#8892A4}
+.dp-count{color:#7E92FF}
+.dp-item{display:grid;grid-template-columns:28px 1fr auto;gap:10px;align-items:center;padding:9px 10px;border-radius:10px;background:rgba(255,255,255,.035);border:1px solid rgba(255,255,255,.07);animation:dpin .6s both;animation-delay:var(--d)}
+.dp-item.done{opacity:.6}
+@keyframes dpin{from{transform:translateY(6px);opacity:.3}}
+.dp-item p{margin:0;font-size:12.5px;line-height:1.4;color:#B6BDCA;min-width:0}
+.dp-item p b{color:#F4F6FA;font-weight:600;margin-right:4px}
+.dp-ico{width:28px;height:28px;border-radius:8px;display:grid;place-items:center;font:700 13px/1 var(--display);color:#fff}
+.dp-ico.meta{background:linear-gradient(135deg,#4A8CFF,#2F49E8)}
+.dp-ico.canva{background:linear-gradient(135deg,#00C4CC,#7D2AE8)}
+.dp-ico.stock{background:linear-gradient(135deg,#E3A266,#B4651F)}
+.dp-ico.mail{background:linear-gradient(135deg,#4CC28A,#1F8A55)}
+.dp-btn{font:600 11.5px/1 var(--body);padding:7px 10px;border-radius:7px;border:1px solid rgba(255,255,255,.14);color:#E8EBF1;white-space:nowrap}
+.dp-btn.solid{background:#7E92FF;border-color:#7E92FF;color:#0B0E14}
+.dp-btn.ok{border-color:transparent;color:#4CC28A}
+.dp-foot{display:flex;flex-wrap:wrap;align-items:center;gap:8px 14px;padding:11px 16px;border-top:1px solid rgba(255,255,255,.07);font:500 11.5px/1 var(--mono);color:#9AA3B2;background:rgba(255,255,255,.02)}
+.dp-mcp{color:#E8EBF1;padding:5px 8px;border-radius:6px;background:linear-gradient(90deg,rgba(126,146,255,.25),rgba(0,196,204,.18));border:1px solid rgba(126,146,255,.35)}
+.dp-conn{display:inline-flex;align-items:center;gap:6px}
+.dp-conn i{width:7px;height:7px;border-radius:50%;background:var(--c);box-shadow:0 0 8px var(--c)}
+.dp-cap{font:500 11px/1 var(--mono);color:var(--muted);text-align:right;position:relative;z-index:1}
+@media (max-width:520px){.dp-body{grid-template-columns:1fr}.dp-side{display:none}.dp-kpis{grid-template-columns:1fr 1fr}.dp-kpi:last-child{grid-column:span 2}.dp-range{display:none}.dp-item{grid-template-columns:28px 1fr}.dp-item .dp-btn{grid-column:2;justify-self:start}}
 footer{border-top:1px solid var(--line);padding-block:24px 40px;display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;font-size:13px;color:var(--muted);font-family:var(--mono)}
 </style>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 26 26%27%3E%3Crect x=%271%27 y=%271%27 width=%2711%27 height=%2711%27 rx=%272%27 fill=%27%232F49E8%27/%3E%3Ccircle cx=%2719.5%27 cy=%276.5%27 r=%275.5%27 fill=%27none%27 stroke=%27%2310141C%27 stroke-width=%272%27/%3E%3Cpath d=%27M1 25 L12 14 L12 25 Z%27 fill=%27%2310141C%27/%3E%3Crect x=%2714%27 y=%2714%27 width=%2711%27 height=%2711%27 rx=%272%27 fill=%27none%27 stroke=%27%232F49E8%27 stroke-width=%272%27/%3E%3C/svg%3E">
@@ -253,23 +307,65 @@ footer{border-top:1px solid var(--line);padding-block:24px 40px;display:flex;jus
     <div>
       <p class="eyebrow">The super agent for DTC commerce</p>
       <h1 style="margin-top:16px">Eight tools.<br><em>One agent.</em><br>Zero growth hires.</h1>
-      <p class="lede">Shapelab collapses Shopify, Klaviyo, Amplitude, Merchant Center, Seller Central, Meta, Microsoft Ads and Peec AI into a single agent with read and write access to all of them. Opus plans, Sonnet executes, and every change lands back in the system it came from. You run it from your phone.</p>
+      <p class="lede">Shapelab plugs every tool you run your store on into one agent through a single MCP: store, ads, email, analytics, marketplaces, even Canva and Figma for creative. It watches everything, decides what to change, and ships the change. You approve from your phone.</p>
       <div class="ctas">
         <a class="btn btn-primary" href="#access">Request early access →</a>
         <a class="btn btn-ghost" href="#system">See the architecture</a>
       </div>
-      <p class="small">claude-agent-sdk · 8 MCP servers · cron + event triggers · in production</p>
+      <p class="small">One MCP · every ecommerce tool · approvals from your phone</p>
     </div>
 
-    <div class="console" aria-label="Example of a scheduled agent run">
-      <div class="console-head"><span class="dots"><i></i><i></i><i></i></span><span>schedule · daily 06:00</span></div>
-      <div class="log">
-        <div class="row"><span class="t">06:00</span><span class="tag opus">opus</span><span class="m"><b>plan</b> · read prompt-level AI visibility export from Peec AI</span></div>
-        <div class="row"><span class="t">06:02</span><span class="tag sonnet">sonnet</span><span class="m"><b>diff</b> · compare answers against live product and content pages</span></div>
-        <div class="row"><span class="t">06:09</span><span class="tag opus">opus</span><span class="m"><b>decide</b> · draft page-level changes where the store is missing from answers</span></div>
-        <div class="row"><span class="t">06:11</span><span class="tag gate">gate</span><span class="m"><b>claim check</b> · every cosmetic claim checked against MoCRA, FDA labelling and EU CPNP rules</span></div>
-        <div class="row"><span class="t">06:12</span><span class="tag sonnet">sonnet</span><span class="m"><b>write</b> · push theme edits through the Shopify CLI, verify checksums <span class="cursor" aria-hidden="true"></span></span></div>
+    <div class="dp" aria-label="Product preview of the Shapelab dashboard, with sample data">
+      <div class="dp-glow" aria-hidden="true"></div>
+      <div class="dp-win">
+        <div class="dp-top">
+          <span class="dp-dots" aria-hidden="true"><i></i><i></i><i></i></span>
+          <span class="dp-title">Overview</span>
+          <span class="dp-live"><i></i>Agent live</span>
+          <span class="dp-range">Last 7 days</span>
+        </div>
+        <div class="dp-body">
+          <aside class="dp-side" aria-hidden="true">
+            <span class="on">◧</span><span>◎</span><span>✉</span><span>▤</span><span>✦</span><span>▣</span>
+          </aside>
+          <div class="dp-main">
+            <div class="dp-kpis">
+              <div class="dp-kpi"><span>Revenue</span><b>£48.2k</b><em class="up">▲ 18.4%</em></div>
+              <div class="dp-kpi"><span>Blended ROAS</span><b>3.9×</b><em class="up">▲ 0.6</em></div>
+              <div class="dp-kpi"><span>Stock cover</span><b>23 days</b><em class="warn">Reorder in 4</em></div>
+            </div>
+            <div class="dp-chart">
+              <div class="dp-chart-head"><span>Revenue vs ad spend</span><span class="dp-legend"><i class="r"></i>Revenue <i class="s"></i>Spend</span></div>
+              <svg viewBox="0 0 400 110" preserveAspectRatio="none" aria-hidden="true">
+                <defs><linearGradient id="dpfill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7E92FF" stop-opacity=".45"/><stop offset="1" stop-color="#7E92FF" stop-opacity="0"/></linearGradient></defs>
+                <g class="dp-grid"><line x1="0" y1="27" x2="400" y2="27"/><line x1="0" y1="55" x2="400" y2="55"/><line x1="0" y1="83" x2="400" y2="83"/></g>
+                <path class="dp-area" d="M0,82 C30,78 50,70 80,72 C110,74 130,58 160,55 C190,52 210,60 240,46 C270,32 300,38 330,26 C355,17 380,20 400,12 L400,110 L0,110 Z"/>
+                <path class="dp-line" d="M0,82 C30,78 50,70 80,72 C110,74 130,58 160,55 C190,52 210,60 240,46 C270,32 300,38 330,26 C355,17 380,20 400,12"/>
+                <path class="dp-spend" d="M0,92 C40,90 70,88 100,89 C140,90 170,84 200,85 C240,86 270,80 300,81 C340,82 370,78 400,77"/>
+                <circle class="dp-end" cx="400" cy="12" r="4"/>
+              </svg>
+            </div>
+            <div class="dp-queue">
+              <div class="dp-q-head"><span>Agent queue</span><span class="dp-count">4 actions</span></div>
+              <div class="dp-item" style="--d:.1s"><span class="dp-ico meta">f</span><p><b>Meta Ads</b> 3 ad sets fatigued. New variants built in Figma from your brand kit.</p><span class="dp-btn solid">Approve</span></div>
+              <div class="dp-item" style="--d:.25s"><span class="dp-ico canva">C</span><p><b>Canva</b> 6 creatives resized for Stories and Reels.</p><span class="dp-btn">Preview</span></div>
+              <div class="dp-item" style="--d:.4s"><span class="dp-ico stock">▣</span><p><b>Inventory</b> Reorder 1,200 units by Friday to cover a 4-week lead time.</p><span class="dp-btn">Review</span></div>
+              <div class="dp-item done" style="--d:.55s"><span class="dp-ico mail">✉</span><p><b>Email</b> Win-back subject lines rewritten. Claim check passed.</p><span class="dp-btn ok">Shipped</span></div>
+            </div>
+          </div>
+        </div>
+        <div class="dp-foot">
+          <span class="dp-mcp">Shapelab MCP</span>
+          <span class="dp-conn"><i style="--c:#95BF47"></i>Store</span>
+          <span class="dp-conn"><i style="--c:#4A8CFF"></i>Ads</span>
+          <span class="dp-conn"><i style="--c:#F2C14E"></i>Email</span>
+          <span class="dp-conn"><i style="--c:#B784F7"></i>Analytics</span>
+          <span class="dp-conn"><i style="--c:#00C4CC"></i>Canva</span>
+          <span class="dp-conn"><i style="--c:#F24E1E"></i>Figma</span>
+          <span class="dp-conn more">+6</span>
+        </div>
       </div>
+      <p class="dp-cap">Product preview · sample data</p>
     </div>
   </header>
 
