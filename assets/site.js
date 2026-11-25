@@ -93,6 +93,15 @@
     v.addEventListener('play', sync); v.addEventListener('pause', sync); sync();
   }
 
+  // Pricing: monthly or yearly
+  const billBtns = document.querySelectorAll('.billing button');
+  billBtns.forEach((btn) => btn.addEventListener('click', () => {
+    const k = btn.dataset.bill;
+    billBtns.forEach((b) => { const on = b === btn; b.classList.toggle('on', on); b.setAttribute('aria-pressed', String(on)); });
+    document.querySelectorAll('.plan .amt[data-m]').forEach((a) => { a.textContent = '$' + a.dataset[k]; });
+    document.querySelectorAll('.plan .bill[data-m]').forEach((b) => { b.textContent = b.dataset[k]; });
+  }));
+
   // Footer year
   for (const y of document.querySelectorAll('[data-year]')) y.textContent = new Date().getFullYear();
 }
