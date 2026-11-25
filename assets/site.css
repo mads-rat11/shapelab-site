@@ -437,3 +437,9 @@ a.path:hover{opacity:1}a.path:hover .stage .panel{transform:translateY(-3px)}
 .plan p{margin:0}.plan{gap:16px}.plan .price{font-size:clamp(28px,2.6vw,34px);line-height:1.1;margin:4px 0 2px}
 .prose>:first-child{margin-top:0}
 .card p{margin:0}.card{gap:10px}
+/* demo video */
+.demo{position:relative;background:#fff;aspect-ratio:16/9}
+.demo-video{display:block;width:100%;height:100%;object-fit:cover}
+.demo-toggle{position:absolute;right:12px;bottom:12px;min-height:34px;padding:0 12px;border-radius:999px;border:1px solid var(--line);background:rgba(255,255,255,.92);color:var(--ink);font:500 13px var(--sans);cursor:pointer;opacity:.85}
+.demo-toggle:hover{opacity:1}
+@media(max-width:600px){.demo-toggle{min-height:26px;padding:0 10px;font-size:12px;right:8px;bottom:8px}}

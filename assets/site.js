@@ -84,6 +84,15 @@
     for (const r of t.querySelectorAll('tbody tr')) [...r.children].forEach((c, i) => { c.dataset.l = heads[i] || ''; });
   }
 
+  // Demo video: pause control, respect reduced motion
+  for (const wrap of document.querySelectorAll('.demo')) {
+    const v = wrap.querySelector('video'); const b = wrap.querySelector('.demo-toggle');
+    const sync = () => { b.textContent = v.paused ? 'Play' : 'Pause'; b.setAttribute('aria-label', v.paused ? 'Play demo' : 'Pause demo'); };
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) { v.removeAttribute('autoplay'); v.pause(); }
+    b.addEventListener('click', () => { if (v.paused) { const p = v.play(); if (p) p.catch(() => {}); } else v.pause(); });
+    v.addEventListener('play', sync); v.addEventListener('pause', sync); sync();
+  }
+
   // Footer year
   for (const y of document.querySelectorAll('[data-year]')) y.textContent = new Date().getFullYear();
 }
