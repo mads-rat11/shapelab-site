@@ -483,3 +483,26 @@ table.compare thead th{font-family:var(--serif);font-weight:400;font-size:20px}
 table.compare th[scope=row]{font-weight:500}
 table.compare td{color:#3B3833}
 .plan .price .per{font-family:var(--sans);font-weight:400}
+
+/* ---------- pricing (enterprise) ---------- */
+.factor{padding:32px}
+.factor-n{font:300 clamp(40px,4.4vw,56px)/1 var(--serif);letter-spacing:-.03em;margin:0 0 6px}
+.int-cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(260px,100%),1fr));gap:32px}
+.ticks{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:10px;font-size:15px}
+.ticks li{position:relative;padding-left:26px}
+.ticks li::before{content:"";position:absolute;left:2px;top:.45em;width:10px;height:5px;border-left:1.5px solid var(--ink);border-bottom:1.5px solid var(--ink);transform:rotate(-45deg)}
+.ticks.big{font-size:17px;gap:14px}
+.quote .fs{gap:8px}
+.quote .chk{min-height:40px;font-size:14px}
+.chk:has(input:focus-visible){outline:2px solid var(--ink);outline-offset:2px}
+.quote-sum .row{flex-direction:row!important}
+.quote-sum .row .v{text-align:right!important}
+
+/* ---------- GEO blocks ---------- */
+.define{max-width:960px;margin:0 auto;text-align:center;display:flex;flex-direction:column;gap:16px;align-items:center}
+.define-text{margin:0;font:300 clamp(24px,2.8vw,34px)/1.3 var(--serif);letter-spacing:-.015em;text-wrap:balance}
+.glossary{margin:0;border-top:1px solid var(--line)}
+.term{padding:24px 0;border-bottom:1px solid var(--line);display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.6fr);gap:8px 40px}
+.term dt{margin:0}.term dd{margin:0;color:#3B3833}
+@media(max-width:700px){.term{grid-template-columns:1fr}.define{text-align:left;align-items:flex-start}}
+.quote-sum .row,.panel .rows .row{gap:4px 16px}

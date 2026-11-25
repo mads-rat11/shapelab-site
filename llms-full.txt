@@ -1,0 +1,1685 @@
+# AISLO: full site text for AI models
+
+Source: https://useaislo.com
+
+
+---
+
+# AISLO | Visibility infrastructure for AI shopping
+URL: https://useaislo.com/
+
+New Platform watch: 14 AI shopping platforms, tracked daily → 
+
+## Visibility infrastructure for the age of AI shopping 
+
+Manage every product feed in one place, and see exactly what AI platforms read behind your website. 
+
+ Request a demo See the platform → 
+
+ app.useaislo.com 
+
+ Pause 
+
+Product demo with example data. 
+
+Built for the places AI shops from 
+
+ Google Merchant Center Google AI Mode ChatGPT Shopify Catalog Microsoft Merchant Center Meta catalog 
+
+What is AISLO? 
+
+AISLO is AI visibility software for ecommerce brands. It manages your product feeds in one place, checks the files AI crawlers read on your site, tracks how ChatGPT, Google AI Mode and Shopify Catalog recommend your products, and writes fixes for you to approve. 
+
+Feeds and site health 
+
+## Every feed. Every file. One place. 
+
+You send product feeds to Google, ChatGPT, Shopify, Microsoft and Meta. Each has its own format, its own rules and its own errors, and keeping track of all of them is hard. 
+
+Most of what AI platforms read about your store sits behind your website, where nobody looks. AISLO brings all of it into one view, so you can see what is happening and fix it. 
+
+ Feeds and site health Example data 
+
+Your feeds 
+
+ Google Merchant Center 412 products, 3 warnings 
+
+ ChatGPT product feed Awaiting approval 
+
+ Shopify Catalog In sync 2 hours ago 
+
+ Microsoft Merchant Center 12 products disapproved 
+
+ Meta catalog In sync yesterday 
+
+Behind your website 
+
+ Product metadata 38 products missing a GTIN 
+
+ Structured data Product markup on 96% of pages 
+
+ robots.txt 1 AI crawler blocked 
+
+ agents.md Not found 
+
+ Price and stock match Feeds agree with your site 
+
+ Last change: robots.txt edited 3 days ago, blocking one AI crawler Review 4 issues 
+
+## The part of your store AI reads first, and you see last 
+
+Product metadata 
+Titles, identifiers, sizes, materials and stock. The fields AI platforms match against when a shopper asks for something specific. 
+
+Structured data 
+The markup on your product pages that tells crawlers the price, rating and availability. When it is missing or wrong, the answer is too. 
+
+robots.txt 
+Which AI crawlers you let in and which you shut out. One line added by a plugin or a developer can hide your store without anyone noticing. 
+
+agents.md 
+Plain instructions for AI agents that visit your site: what you sell, where to find it, and how to buy. We check whether you have one and what it says. 
+
+ Check your site We alert you when a feed breaks or a file changes. 
+
+## Built for how you sell 
+
+How ChatGPT describes your product 
+
+ Title Matches Shopify 
+ Price Out of date 
+ Reviews Shown 
+
+## For Shopify brands 
+
+See how Shopify's catalog and ChatGPT describe every product, and what to fix first. 
+ Learn more → 
+
+Feed delivery 
+
+ products.xml Built from your catalog 
+ Validation 0 errors 
+ Send to ChatGPT Waiting for your approval 
+
+## For every other stack 
+
+We build and deliver the product feeds AI platforms ask for, with your approval. 
+ Learn more → 
+
+ Coming soon Product feeds for ChatGPT shopping, delivered for you Join the waitlist → 
+ New Platform watch: every change across 14 AI shopping platforms, tracked daily See how it works → 
+
+## One platform for AI visibility 
+Measure where you stand, fix what holds you back, and prove what it earns. 
+
+Measure 
+
+## See every answer that mentions you 
+Track which products AI platforms recommend, what they say about them, and where a competitor wins the answer. Learn more → 
+
+Prompt 
+Best linen shirt for hot weather 
+
+ Your brand Mentioned, position 2 
+
+ Competitor A Mentioned, position 1 
+
+ Competitor B Not mentioned 
+
+Fix 
+
+## Turn gaps into approved changes 
+AISLO writes listing and feed fixes in the format each platform expects. Nothing changes until you approve it. Learn more → 
+
+Suggested fix: product title 
+
+Linen shirt 
+
+Linen shirt, relaxed fit, breathable, sand 
+
+ Approve Edit 
+
+Prove 
+
+## Tie AI visits to revenue 
+Match sessions from AI platforms to orders, so you know which work pays for itself. Learn more → 
+
+Orders from AI referrals, example data 
+
+Connect 
+
+## One source of truth for your products 
+Connect your store and Google accounts once. AISLO keeps your product data consistent everywhere AI shops from. Learn more → 
+
+ Google Merchant Center Connected 
+
+ Search Console Connected, read only 
+
+ Google Analytics Connected, read only 
+
+ Shopify Catalog Connected 
+
+ ChatGPT product feed Pending 
+
+ How does ChatGPT describe our products? 
+ Are all our feeds healthy? 
+ Is anything blocking AI crawlers? 
+ Which fixes actually moved sales? 
+
+Where AISLO started 
+
+## Built by ecommerce technologists 
+
+AISLO is built by engineers and operators who have run online stores. When AI started sending shoppers, none of the tools we tried could show how our products were described, or fix the data behind it. So we built one. 
+ Read our story → 
+
+ 14 
+AI shopping platforms watched every day 
+
+ 5 
+Feed destinations managed in one view 
+
+ 4 
+Hidden layers checked on every scan 
+
+ 0 
+Changes made without your approval 
+
+## Built to be trusted with your data 
+You connect your accounts, you approve every change, and you can disconnect at any time. Visit the Trust Center → 
+
+Read-only analytics 
+Search Console and Analytics are never written to. 
+
+Approval before changes 
+Nothing reaches your listings until you approve it. 
+
+Limited use of Google data 
+Used only to run AISLO for you. Never sold or used for ads. 
+
+Deletion on request 
+Disconnect any account and ask us to delete its data. 
+
+## Guides to AI shopping All guides → 
+
+How to get your products recommended in ChatGPT shopping Read the guide → 
+
+How to get your products into Google AI Mode shopping Read the guide → 
+
+The AI product feed checklist for online stores Read the guide → 
+
+## Questions 
+
+What is AISLO? 
+AISLO is AI visibility software for ecommerce brands. It manages your product feeds in one place, checks the files AI crawlers read on your site, tracks how ChatGPT, Google AI Mode and Shopify Catalog recommend your products, writes fixes for you to approve, and shows the revenue that follows. 
+Who is AISLO for? 
+Ecommerce brands and retailers that sell online, on Shopify or any other platform, and want their products recommended when shoppers ask AI assistants what to buy. 
+How is AISLO different from other AI visibility tools? 
+Most AI visibility tools track how often a brand is mentioned. AISLO works on the product data AI shopping is built from: feeds, product attributes, structured data and crawler access, and it measures orders, not just mentions. 
+Which AI platforms does AISLO cover? 
+AISLO tracks answers in ChatGPT, Google AI Mode and AI Overviews, and Shopify Catalog, manages feeds to Google Merchant Center, ChatGPT, Shopify Catalog, Microsoft and Meta, and watches 14 AI shopping platforms for changes. 
+How much does AISLO cost? 
+AISLO is quoted on the number of SKUs you manage, the integrations you need and the support you want. Every engagement starts with a free visibility audit. 
+
+## See how AI presents your brand today 
+
+We run your products through ChatGPT, Google and Shopify and walk you through what we find. 
+
+ Request a demo See pricing →
+
+---
+
+# AISLO platform: AI visibility and product feed management for ecommerce
+URL: https://useaislo.com/product
+
+Platform 
+
+## Measure, fix and prove your AI visibility 
+
+AISLO connects to your store and your Google accounts, watches every feed and file AI platforms read, and shows you what to change first. 
+
+ Request a demo See pricing → 
+
+In short 
+AISLO does four jobs for an online store: it measures how AI assistants recommend your products, manages your product feeds in one place, writes fixes to feeds, listings and site files for you to approve, and ties AI referrals to revenue. 
+
+## How it works 
+
+Connect 
+Link your store, Merchant Center, Search Console and Analytics. Analytics access is read only. 
+
+Scan 
+We check your feeds and the files behind your site, and run your products through the questions shoppers ask AI. 
+
+Approve 
+You get a ranked list of fixes. Approve, edit or skip each one. Nothing is sent until you say so. 
+
+Feeds and site health 
+
+## Every product feed and every hidden file, in one view 
+
+See the status of each feed, the errors each platform reports, and the state of the files AI crawlers read before they read your pages. 
+
+ Feeds and site health Example data 
+
+Your feeds 
+
+ Google Merchant Center 412 products, 3 warnings 
+
+ ChatGPT product feed Awaiting approval 
+
+ Shopify Catalog In sync 2 hours ago 
+
+ Microsoft Merchant Center 12 products disapproved 
+
+ Meta catalog In sync yesterday 
+
+Behind your website 
+
+ Product metadata 38 products missing a GTIN 
+
+ Structured data Product markup on 96% of pages 
+
+ robots.txt 1 AI crawler blocked 
+
+ agents.md Not found 
+
+ Price and stock match Feeds agree with your site 
+
+ Last change: robots.txt edited 3 days ago, blocking one AI crawler Review 4 issues 
+
+Product metadata 
+Titles, identifiers, sizes, materials and stock. The fields AI platforms match against when a shopper asks for something specific. 
+
+Structured data 
+The markup on your product pages that tells crawlers the price, rating and availability. When it is missing or wrong, the answer is too. 
+
+robots.txt 
+Which AI crawlers you let in and which you shut out. One line added by a plugin or a developer can hide your store without anyone noticing. 
+
+agents.md 
+Plain instructions for AI agents that visit your site: what you sell, where to find it, and how to buy. We check whether you have one and what it says. 
+
+Measure 
+
+## See every answer that mentions you 
+Track which products AI platforms recommend, what they say about them, and where a competitor wins the answer. 
+Answers tracked across ChatGPT, Google AI and Shopify Catalog 
+The prompts that matter for your category, chosen with you 
+Position and wording over time, against named competitors 
+
+Prompt 
+Best linen shirt for hot weather 
+
+ Your brand Mentioned, position 2 
+
+ Competitor A Mentioned, position 1 
+
+ Competitor B Not mentioned 
+
+Fix 
+
+## Turn gaps into approved changes 
+AISLO writes listing and feed fixes in the format each platform expects. 
+Titles, attributes and identifiers rewritten for how shoppers ask 
+Structured data, robots.txt and agents.md fixes you can hand to a developer 
+Every change waits for your approval 
+
+Suggested fix: product title 
+
+Linen shirt 
+
+Linen shirt, relaxed fit, breathable, sand 
+
+ Approve Edit 
+
+Prove 
+
+## Tie AI visits to revenue 
+Match sessions from AI platforms to orders, so you know which work pays for itself. 
+AI referral sessions separated from search and social 
+Orders and revenue by platform and by product 
+Before and after views for each approved fix 
+
+Orders from AI referrals, example data 
+
+Connect 
+
+## One source of truth for your products 
+Connect your store and Google accounts once. AISLO keeps your product data consistent everywhere AI shops from. 
+Price and stock checked against every feed 
+Alerts when a feed breaks or a file changes 
+Disconnect any account at any time 
+
+ Google Merchant Center Connected 
+
+ Search Console Connected, read only 
+
+ Google Analytics Connected, read only 
+
+ Shopify Catalog Connected 
+
+ ChatGPT product feed Pending 
+
+Watch 
+
+## Always up to date with every platform 
+AISLO reads news, policy and specification changes from more than 10 AI shopping platforms every day, and turns new rules into new checks automatically. 
+Google Merchant Center, AI Mode, Gemini, ChatGPT, Shopify, Microsoft, Meta, Perplexity, Amazon and more 
+Changes matched to your products, with alerts only when they affect you 
+A weekly briefing for your team Learn more → 
+
+ Google Merchant Center New attribute check added 
+ Shopify Catalog Eligibility rules updated 
+ ChatGPT Feed spec change tracked 
+ Meta catalog No change this week 
+
+## Built for how you sell 
+
+For Shopify brands 
+Shopify already shares your catalog with AI platforms. AISLO shows you how that catalog reads in ChatGPT and Shopify's own agents, finds the products that are missing or misdescribed, and fixes them at the source. 
+Catalog and storefront compared product by product 
+Fixes written back to Shopify after approval 
+Google Merchant Center kept in step 
+
+For every other stack 
+On WooCommerce, BigCommerce, Adobe Commerce or a custom build, there is no single catalog doing the work for you. AISLO builds the feeds each platform asks for from your product data, checks them, and delivers them once you approve. 
+Feeds built to each platform's specification 
+Validation before anything is sent 
+Scheduled refresh so prices and stock stay current 
+
+## See how AI presents your brand today 
+
+We run your products through ChatGPT, Google and Shopify and walk you through what we find. 
+
+ Request a demo See pricing →
+
+---
+
+# Platform watch: every AI shopping change, tracked | AISLO
+URL: https://useaislo.com/platform-watch
+
+Home / Product / Platform watch 
+
+## AI shopping changes every week. AISLO keeps up for you. 
+
+Platform watch reads the news, policy updates and specification changes from more than 10 AI shopping platforms every day. New rules become new checks automatically, and you only hear about the ones that affect your store. 
+
+ Request a demo See the platform → 
+
+ Platform watch Recent real changes, as AISLO would show them 
+
+ Google Merchant Center AI performance insights and an attribute completeness score announced New check: missing attributes 
+
+ Shopify Agentic Storefronts make eligible stores discoverable in ChatGPT by default New check: Catalog eligibility 
+
+ OpenAI Merchants can apply to send ChatGPT a direct product feed Feed spec added 
+
+ Google AI Mode Agentic checkout rolling out to product listings in the US Checkout settings checked 
+
+## Platforms we watch 
+
+And growing as new AI shopping surfaces launch. 
+
+ Google Merchant Center Google Search and AI Mode Gemini Google Business Profile ChatGPT and OpenAI Shopify Catalog Microsoft Merchant Center and Copilot Meta Shops and catalog Perplexity Amazon TikTok Shop Pinterest Apple Claude 
+
+## From announcement to action, without you reading a changelog 
+
+Read 
+Every day AISLO reads help centres, developer docs, changelogs, policy pages and official announcements across each platform. 
+
+Understand 
+Each change is summarised in plain language: what changed, where, from when, and who it applies to. 
+
+Learn 
+New rules, attributes and crawler names become new checks and better recommendations automatically. Your next scan already knows. 
+
+Act 
+Changes are matched to your feeds, products and site files. You get an alert only when it affects you, with the fix ready to approve. 
+
+## A weekly briefing, written for your store 
+Every week you get a short summary of what changed across AI shopping, which changes touch your products, and what AISLO has already adjusted. Share it with your team or your agency. 
+
+Weekly briefing, example layout 
+
+ Changes tracked this week Across all platforms 
+ Affecting your store Matched to your catalog 
+ Checks updated automatically Already live 
+ Fixes waiting for approval Ready to review 
+
+## Questions 
+
+What does AISLO Platform watch track? 
+Policy updates, feed specification changes, new attributes, crawler changes, new checkout and catalog programmes, and announcements from more than 10 AI shopping platforms, including Google Merchant Center, Google AI Mode, Gemini, ChatGPT, Shopify Catalog, Microsoft, Meta, Perplexity, Amazon and TikTok Shop. 
+How does AISLO stay up to date? 
+AISLO reads platform documentation, changelogs, help centres and announcements every day. When something changes, it updates its checks and recommendations automatically, so your next scan already reflects the new rules. 
+Will I be told when a change affects my store? 
+Yes. Each change is matched against your feeds, products and site files. You get an alert only when it affects you, with the fix ready to approve. 
+
+## Sources 
+ Google Merchant Center: Insights for AI-powered shopping 
+ Shopify: Agentic commerce momentum 
+ OpenAI: Shopping with ChatGPT Search 
+ Google: Shop with AI Mode 
+Details are taken from the linked public pages, checked 25 November 2026. Platforms, plans and features change, so check the source before you decide. Spot something out of date? Email hello@useaislo.com and we will correct it. 
+
+## Never miss a platform change again 
+
+We run your products through ChatGPT, Google and Shopify and walk you through what we find. 
+
+ Request a demo See pricing →
+
+---
+
+# Pricing: quoted on SKUs, integrations and support | AISLO
+URL: https://useaislo.com/pricing
+
+Pricing 
+
+## Priced on your catalog, not on seats 
+
+AISLO is quoted on three things: how many SKUs you manage, which integrations you need, and the support you want. Every engagement starts with a free visibility audit. 
+
+ Build your quote Book your free audit → 
+
+## What shapes your price 
+
+SKUs 
+Every SKU is tracked in AI answers, checked in each feed and kept in sync with your site, so price follows the size of your catalog. 
+
+Integrations 
+The feed destinations, store platforms and data tools AISLO connects to. Most brands start with three to five. 
+
+Support 
+From guided onboarding to a named specialist who runs your approvals and reporting with you. 
+
+## Catalog size 
+Quotes are set by SKU band. Variants count as SKUs when they have their own identifier. 
+
+ Up to 1,000 SKUs Independent brands and focused catalogs. 
+ 1,000 to 10,000 SKUs Growing brands across several categories. 
+ 10,000 to 100,000 SKUs Retailers, marketplace sellers and multi-brand groups. 
+ Over 100,000 SKUs Large retailers and enterprise catalogs. 
+
+## Integrations 
+
+Pick the platforms you sell through and the tools you measure with. Custom sources and destinations are quoted on request. 
+
+Feed destinations 
+Google Merchant Center 
+ChatGPT product feeds 
+Shopify Catalog 
+Microsoft Merchant Center 
+Meta catalog 
+
+Store and product data 
+Shopify 
+WooCommerce 
+BigCommerce 
+Adobe Commerce 
+Salesforce Commerce Cloud 
+PIM or custom catalog 
+
+Measurement and data 
+Google Analytics 
+Google Search Console 
+BI and data export 
+API access 
+SSO 
+
+## Support 
+
+Standard 
+Guided onboarding, email support and a quarterly review. 
+
+Priority 
+A shared Slack channel, faster response times and monthly reviews. 
+
+Managed 
+A named AI visibility specialist who runs your approvals queue and monthly reporting with you. 
+
+## Included in every quote 
+The full platform, whatever your catalog size. 
+
+AI answer tracking against named competitors 
+Feeds and site health monitoring with alerts 
+Structured data, robots.txt and agents.md checks 
+Fixes written for you to approve 
+Platform watch across 14 AI shopping platforms 
+Unlimited team seats 
+
+## Build your quote 
+
+Choose what you need and we will send a tailored quote with your free audit. 
+
+Your quote request 
+
+ Catalog 
+ Integrations 
+ Support 
+
+## Questions 
+
+How is AISLO priced? 
+AISLO is priced on three things: the number of SKUs you manage, the integrations you need, and the level of support you want. We send a tailored quote after a free visibility audit of your catalog. 
+Why do you price by SKU? 
+The work AISLO does grows with your catalog: every SKU is tracked in AI answers, checked in each feed and kept in sync with your site. Pricing by SKU means you pay for the catalog you actually run, not for seats or features you do not use. 
+What counts as an integration? 
+Each place AISLO reads from or sends to: feed destinations such as Google Merchant Center, ChatGPT and Meta, your store platform or PIM, and measurement tools such as Google Analytics. Most brands start with three to five. 
+Is there a free trial? 
+Every engagement starts with a free visibility audit. We scan your top products across ChatGPT, Google AI and Shopify Catalog, check your feeds and site files, and walk you through the results. You keep the report. 
+Do you charge per user? 
+No. Every plan includes unlimited team seats, so marketing, ecommerce and development can all work in AISLO. 
+How long are agreements? 
+Agreements are usually annual. Ask us about shorter terms for smaller catalogs. 
+Will AISLO change my store or listings? 
+Only with your approval. Every fix is shown to you first, and you can approve, edit or skip it. Search Console and Analytics are connected read only. 
+
+## Start with a free audit 
+
+Book a demo and we will run your audit before the call, then send your quote. 
+
+ Request a demo See pricing →
+
+---
+
+# About AISLO: ecommerce technologists building AI visibility software
+URL: https://useaislo.com/about
+
+About 
+
+## We help brands get found by the AI that shops for their customers 
+
+## Technologists who have run ecommerce 
+
+AISLO is built by engineers, data specialists and product people who have spent their careers inside ecommerce: building storefronts, running product feeds and marketplaces, and growing online brands across markets. 
+
+When shoppers started asking AI assistants what to buy, we went looking for a tool that could show how our products were being described, and fix it. None of them did what we needed. The tools we tried counted brand mentions. They did not touch the product feeds, structured data or crawler rules that decide what AI recommends, and none could tell us whether any of it made money. 
+
+So we built the tool we wanted. AISLO treats AI visibility as an ecommerce problem, built by people who understand both the technology and the store. 
+
+## What we bring 
+
+Ecommerce operations 
+Catalogs, product feeds, marketplaces, merchandising and checkout. We know how a store really runs, and where product data goes wrong. 
+
+Search and data engineering 
+Crawlers, structured data, feed specifications, analytics and attribution. The technical layer AI platforms read before they read your pages. 
+
+Product craft 
+Tools that busy ecommerce teams actually use: clear, fast, and built around approving the right fix, not reading another report. 
+
+## What we believe 
+
+You stay in control 
+We suggest. You decide. Nothing reaches your store, feeds or listings without your approval. 
+
+Show the hidden layer 
+The files and fields AI reads should be as easy to check as your homepage. 
+
+Play by each platform's rules 
+We follow the feed specifications and policies of every platform we work with. No tricks that get a brand delisted. 
+
+Built by operators 
+We have run ecommerce ourselves. Every feature exists because a store needed it. 
+
+## The company 
+
+ Legal name AISLO Technologies Ltd 
+
+ Registered in United Kingdom 
+
+ Email hello@useaislo.com 
+
+ Press and partnerships Contact us 
+
+## Work with us 
+
+See what AI platforms say about your products, and what to fix first. 
+
+ Request a demo See pricing →
+
+---
+
+# Security and Trust Center | AISLO
+URL: https://useaislo.com/security
+
+Trust Center 
+
+## Your data, your approval, your call 
+
+AISLO works with your store and your Google accounts. Here is exactly what we access, what we do with it, and how you stay in control. 
+
+Read-only analytics 
+Search Console and Google Analytics are connected with read-only access. We use them to see how shoppers reach you from AI platforms. We never write to them. 
+
+Approval before changes 
+Where AISLO can update your Merchant Center, store catalog or feeds, every change is shown to you first. Nothing is sent until you approve it, and each approval is logged. 
+
+Limited use of Google data 
+Data from Google APIs is used only to provide AISLO's features to you. It is never sold, never used for advertising, and never used to train general AI models. See our Privacy Policy . 
+
+Deletion on request 
+Disconnect any account at any time from your settings or from the provider's own security page. Ask us and we delete the data we hold from that account. 
+
+## What we access, and why 
+
+ Connection Access Why we need it 
+
+ Google Merchant Center Read, and write after your approval Check feed status and errors, and apply fixes you approve 
+
+ Google Search Console Read only See how your pages are indexed and found 
+
+ Google Analytics Read only Measure sessions and orders from AI platforms 
+
+ Shopify Read, and write after your approval Read your catalog and apply approved product fixes 
+
+ ChatGPT product feeds Feed delivery after your approval Send your product feed to ChatGPT shopping 
+
+## How we protect it 
+
+Data is encrypted in transit with TLS and at rest. Access tokens for your connected accounts are stored encrypted and used only by the services that need them. Staff access to customer data is limited to the people who need it to support you. 
+
+Found a security issue or have a question about how we handle data? Email hello@useaislo.com with "Security" in the subject line and we will respond promptly.
+
+---
+
+# AISLO vs Peec AI, Profound, Otterly.AI, AthenaHQ and Scrunch | AISLO
+URL: https://useaislo.com/compare
+
+Home / Compare 
+
+## How AISLO compares 
+
+Short answer 
+Most AI visibility tools track how often your brand is mentioned. AISLO is built for online stores: it manages the product feeds and site files AI shopping depends on, writes fixes for you to approve, and shows the revenue that follows. 
+
+Compared on 25 November 2026 using public information. 
+
+## At a glance 
+
+ Feature AISLO Peec AI Profound Otterly.AI AthenaHQ Scrunch 
+ Built for Ecommerce brands and retailers Marketing and SEO teams, agencies Enterprise marketing teams Marketing teams and agencies, small businesses Brands and agencies focused on GEO content Brands and agencies managing how AI agents read their site 
+ Shopping visibility Yes, product by product Yes, SKU-level AI Shopping tracking ChatGPT Shopping included in Answer Engine Insights Not listed Not listed Not listed on the pricing page 
+ Feed management Yes: Google Merchant Center, ChatGPT, Shopify Catalog, Microsoft, Meta in one view Not listed. Catalogs can be imported from Shopify or a CSV, including a Merchant Center export Not listed Not listed Not listed. A Shopify and Webflow integration is listed on Starter and Enterprise Not listed 
+ Structured data checks Yes, product markup on every page Not listed Not listed Not listed. A GEO content check is included Not listed AXP serves a structured version of your pages to AI agents 
+ robots.txt checks Yes, with alerts when the file changes Yes, crawlability audit for 40+ AI bots Agent Analytics shows AI crawler traffic through CDN and analytics integrations Yes, crawlability check Not listed Site audits flag crawling issues 
+ Revenue from AI Yes, orders and revenue by platform and product Not listed. AI referral visits are reported Not listed. AI traffic attribution is reported Not listed Not listed. GA4 and Search Console traffic are connected Not listed. AI agent traffic is reported 
+ Pricing Quoted on SKU count, integrations and support, after a free audit From $95/month (Starter, 50 prompts) Enterprise only, custom pricing. Self-serve plans were retired in September 2026 From €29/month (Lite, 16 prompts) Free Essential tier; Starter from $295/month Core from $250/month 
+
+Scroll sideways on a phone to see every tool. 
+
+## Detailed comparisons 
+
+AISLO vs Peec AI 
+Peec AI tells you how often you show up. AISLO also manages the feeds and files that decide whether you show up, and shows what it earns. Read the comparison → 
+AISLO vs Profound 
+Profound is built for enterprise content teams. AISLO is built for the people who run an online store: feeds, product data, site files and the revenue they drive. Read the comparison → 
+AISLO vs Otterly.AI 
+Otterly.AI is a good way to start monitoring prompts cheaply. It does not list any ecommerce features. AISLO is built around products, feeds and orders. Read the comparison → 
+AISLO vs AthenaHQ 
+AthenaHQ helps you write content AI engines cite. AISLO fixes the product data underneath: feeds, attributes, markup and crawler access, then measures orders. Read the comparison → 
+AISLO vs Scrunch 
+Scrunch changes how AI agents read your pages. AISLO goes to the product data AI shopping actually ranks on: your feeds in Merchant Center, ChatGPT and Shopify Catalog. Read the comparison → 
+
+## Questions 
+
+What is the best AI visibility tool for ecommerce? 
+For brands that sell products online, AISLO is built for the job: it tracks AI answers and also manages product feeds, checks structured data, robots.txt and agents.md, writes fixes for approval and ties AI referrals to revenue. General AI visibility tools such as Peec AI, Profound, Otterly.AI, AthenaHQ and Scrunch focus on prompt tracking and content. 
+Do AI visibility tools manage product feeds? 
+Most do not list feed management. Peec AI can import a catalog from Shopify or a CSV, and AthenaHQ lists a Shopify integration. AISLO manages feeds to Google Merchant Center, ChatGPT, Shopify Catalog, Microsoft and Meta in one view. 
+How did you compare the tools? 
+We used each vendor's public pricing and product pages, checked on 25 November 2026. Where a feature is not mentioned we say Not listed rather than guess. 
+
+## Sources 
+ Peec AI pricing 
+ Profound pricing 
+ Otterly.AI pricing 
+ AthenaHQ pricing 
+ Scrunch pricing 
+Details are taken from the linked public pages, checked 25 November 2026. Platforms, plans and features change, so check the source before you decide. Spot something out of date? Email hello@useaislo.com and we will correct it. 
+
+## See how AI presents your brand today 
+
+We run your products through ChatGPT, Google and Shopify and walk you through what we find. 
+
+ Request a demo See pricing →
+
+---
+
+# AISLO vs AthenaHQ: AI visibility for ecommerce compared | AISLO
+URL: https://useaislo.com/aislo-vs-athenahq
+
+Home / Compare / AISLO vs AthenaHQ 
+
+## AISLO vs AthenaHQ 
+
+Short answer 
+AthenaHQ is a generative engine optimisation platform with wide engine coverage and content tools. AthenaHQ helps you write content AI engines cite. AISLO fixes the product data underneath: feeds, attributes, markup and crawler access, then measures orders. If you sell products online, AISLO covers the work that decides whether AI recommends them. 
+
+Compared on 25 November 2026 using public information. 
+
+## Side by side 
+
+How the two compare on what matters to an online store. 
+
+ Feature AISLO AthenaHQ 
+ Built for Ecommerce brands and retailers Brands and agencies focused on GEO content 
+ AI answer tracking Yes, tracked against named competitors Yes 
+ AI engines covered ChatGPT, Google AI Mode and AI Overviews, Shopify Catalog 11 engines listed on Starter 
+ Product-level shopping visibility Yes, product by product Not listed 
+ Product feed management Yes: Google Merchant Center, ChatGPT, Shopify Catalog, Microsoft, Meta in one view Not listed. A Shopify and Webflow integration is listed on Starter and Enterprise 
+ Feed error alerts Yes, when a feed breaks or products are disapproved Not listed 
+ Structured data checks Yes, product markup on every page Not listed 
+ robots.txt and AI crawler checks Yes, with alerts when the file changes Not listed 
+ agents.md and llms.txt checks Yes llms.txt file management listed 
+ Fixes written for you to approve Yes: titles, attributes, feeds and site files, sent only after approval Content optimisation agent; feed or listing write-back not listed 
+ Revenue from AI referrals Yes, orders and revenue by platform and product Not listed. GA4 and Search Console traffic are connected 
+ Pricing Quoted on SKU count, integrations and support, after a free audit Free Essential tier; Starter from $295/month 
+
+## Why ecommerce teams choose AISLO 
+
+Feeds, not just mentions 
+AI shopping ranks products from feed and catalog data. AISLO manages your feeds to Google Merchant Center, ChatGPT, Shopify Catalog, Microsoft and Meta in one place, and alerts you when one breaks. 
+
+The hidden layer, checked 
+Product metadata, structured data, robots.txt and agents.md are checked on every scan, so a plugin update or a missing GTIN does not quietly hide your products. 
+
+Revenue, not vanity metrics 
+AISLO matches AI referral sessions to orders, so you can see which fixes paid for themselves, product by product. 
+
+## When AthenaHQ may suit you better 
+
+Choose AthenaHQ if your main gap is editorial content and you want one tool to research, write and track it across many engines. 
+
+## Questions 
+
+What is the difference between AISLO and AthenaHQ? 
+AthenaHQ helps you write content AI engines cite. AISLO fixes the product data underneath: feeds, attributes, markup and crawler access, then measures orders. 
+Is AISLO an alternative to AthenaHQ? 
+Yes, for ecommerce brands. AISLO covers AI answer tracking like AthenaHQ, and adds product feed management, site health checks for structured data, robots.txt and agents.md, approved fixes, and revenue from AI referrals. 
+When is AthenaHQ the better choice? 
+AthenaHQ may suit you better if your main gap is editorial content and you want one tool to research, write and track it across many engines. 
+How do I switch to AISLO? 
+Request a demo. We run an audit of your products, feeds and site files first, so you can compare results before you change anything. Connecting your accounts takes a few minutes. 
+
+## Sources 
+ AthenaHQ pricing 
+Details are taken from the linked public pages, checked 25 November 2026. Platforms, plans and features change, so check the source before you decide. Spot something out of date? Email hello@useaislo.com and we will correct it. 
+
+ See every comparison → 
+
+## Compare AISLO with AthenaHQ on your own store 
+
+Book a demo and we run your audit first, so you can judge on real results. 
+
+ Request a demo See pricing →
+
+---
+
+# AISLO vs Otterly.AI: AI visibility for ecommerce compared | AISLO
+URL: https://useaislo.com/aislo-vs-otterly-ai
+
+Home / Compare / AISLO vs Otterly.AI 
+
+## AISLO vs Otterly.AI 
+
+Short answer 
+Otterly.AI is an affordable AI search monitoring tool with a low entry price. Otterly.AI is a good way to start monitoring prompts cheaply. It does not list any ecommerce features. AISLO is built around products, feeds and orders. If you sell products online, AISLO covers the work that decides whether AI recommends them. 
+
+Compared on 25 November 2026 using public information. 
+
+## Side by side 
+
+How the two compare on what matters to an online store. 
+
+ Feature AISLO Otterly.AI 
+ Built for Ecommerce brands and retailers Marketing teams and agencies, small businesses 
+ AI answer tracking Yes, tracked against named competitors Yes, daily 
+ AI engines covered ChatGPT, Google AI Mode and AI Overviews, Shopify Catalog 4 of 7 engines per plan 
+ Product-level shopping visibility Yes, product by product Not listed 
+ Product feed management Yes: Google Merchant Center, ChatGPT, Shopify Catalog, Microsoft, Meta in one view Not listed 
+ Feed error alerts Yes, when a feed breaks or products are disapproved Not listed 
+ Structured data checks Yes, product markup on every page Not listed. A GEO content check is included 
+ robots.txt and AI crawler checks Yes, with alerts when the file changes Yes, crawlability check 
+ agents.md and llms.txt checks Yes Not listed 
+ Fixes written for you to approve Yes: titles, attributes, feeds and site files, sent only after approval Not listed 
+ Revenue from AI referrals Yes, orders and revenue by platform and product Not listed 
+ Pricing Quoted on SKU count, integrations and support, after a free audit From €29/month (Lite, 16 prompts) 
+
+## Why ecommerce teams choose AISLO 
+
+Feeds, not just mentions 
+AI shopping ranks products from feed and catalog data. AISLO manages your feeds to Google Merchant Center, ChatGPT, Shopify Catalog, Microsoft and Meta in one place, and alerts you when one breaks. 
+
+The hidden layer, checked 
+Product metadata, structured data, robots.txt and agents.md are checked on every scan, so a plugin update or a missing GTIN does not quietly hide your products. 
+
+Revenue, not vanity metrics 
+AISLO matches AI referral sessions to orders, so you can see which fixes paid for themselves, product by product. 
+
+## When Otterly.AI may suit you better 
+
+Choose Otterly.AI if you want a low-cost way to watch a small set of prompts and do not sell products online, or are not ready to work on feeds yet. 
+
+## Questions 
+
+What is the difference between AISLO and Otterly.AI? 
+Otterly.AI is a good way to start monitoring prompts cheaply. It does not list any ecommerce features. AISLO is built around products, feeds and orders. 
+Is AISLO an alternative to Otterly.AI? 
+Yes, for ecommerce brands. AISLO covers AI answer tracking like Otterly.AI, and adds product feed management, site health checks for structured data, robots.txt and agents.md, approved fixes, and revenue from AI referrals. 
+When is Otterly.AI the better choice? 
+Otterly.AI may suit you better if you want a low-cost way to watch a small set of prompts and do not sell products online, or are not ready to work on feeds yet. 
+How do I switch to AISLO? 
+Request a demo. We run an audit of your products, feeds and site files first, so you can compare results before you change anything. Connecting your accounts takes a few minutes. 
+
+## Sources 
+ Otterly.AI pricing 
+Details are taken from the linked public pages, checked 25 November 2026. Platforms, plans and features change, so check the source before you decide. Spot something out of date? Email hello@useaislo.com and we will correct it. 
+
+ See every comparison → 
+
+## Compare AISLO with Otterly.AI on your own store 
+
+Book a demo and we run your audit first, so you can judge on real results. 
+
+ Request a demo See pricing →
+
+---
+
+# AISLO vs Peec AI: AI visibility for ecommerce compared | AISLO
+URL: https://useaislo.com/aislo-vs-peec-ai
+
+Home / Compare / AISLO vs Peec AI 
+
+## AISLO vs Peec AI 
+
+Short answer 
+Peec AI is a well-priced AI search analytics tool from Berlin, popular with marketing teams and agencies. Peec AI tells you how often you show up. AISLO also manages the feeds and files that decide whether you show up, and shows what it earns. If you sell products online, AISLO covers the work that decides whether AI recommends them. 
+
+Compared on 25 November 2026 using public information. 
+
+## Side by side 
+
+How the two compare on what matters to an online store. 
+
+ Feature AISLO Peec AI 
+ Built for Ecommerce brands and retailers Marketing and SEO teams, agencies 
+ AI answer tracking Yes, tracked against named competitors Yes, daily 
+ AI engines covered ChatGPT, Google AI Mode and AI Overviews, Shopify Catalog 3 of 8 models on Starter, Pro and Advanced; more on Enterprise 
+ Product-level shopping visibility Yes, product by product Yes, SKU-level AI Shopping tracking 
+ Product feed management Yes: Google Merchant Center, ChatGPT, Shopify Catalog, Microsoft, Meta in one view Not listed. Catalogs can be imported from Shopify or a CSV, including a Merchant Center export 
+ Feed error alerts Yes, when a feed breaks or products are disapproved Not listed 
+ Structured data checks Yes, product markup on every page Not listed 
+ robots.txt and AI crawler checks Yes, with alerts when the file changes Yes, crawlability audit for 40+ AI bots 
+ agents.md and llms.txt checks Yes Not listed 
+ Fixes written for you to approve Yes: titles, attributes, feeds and site files, sent only after approval Not listed as feed or listing write-back 
+ Revenue from AI referrals Yes, orders and revenue by platform and product Not listed. AI referral visits are reported 
+ Pricing Quoted on SKU count, integrations and support, after a free audit From $95/month (Starter, 50 prompts) 
+
+## Why ecommerce teams choose AISLO 
+
+Feeds, not just mentions 
+AI shopping ranks products from feed and catalog data. AISLO manages your feeds to Google Merchant Center, ChatGPT, Shopify Catalog, Microsoft and Meta in one place, and alerts you when one breaks. 
+
+The hidden layer, checked 
+Product metadata, structured data, robots.txt and agents.md are checked on every scan, so a plugin update or a missing GTIN does not quietly hide your products. 
+
+Revenue, not vanity metrics 
+AISLO matches AI referral sessions to orders, so you can see which fixes paid for themselves, product by product. 
+
+## When Peec AI may suit you better 
+
+Choose Peec AI if you mainly need prompt tracking across several countries and models for a marketing team, and someone else already owns your feeds and site files. 
+
+## Questions 
+
+What is the difference between AISLO and Peec AI? 
+Peec AI tells you how often you show up. AISLO also manages the feeds and files that decide whether you show up, and shows what it earns. 
+Is AISLO an alternative to Peec AI? 
+Yes, for ecommerce brands. AISLO covers AI answer tracking like Peec AI, and adds product feed management, site health checks for structured data, robots.txt and agents.md, approved fixes, and revenue from AI referrals. 
+When is Peec AI the better choice? 
+Peec AI may suit you better if you mainly need prompt tracking across several countries and models for a marketing team, and someone else already owns your feeds and site files. 
+How do I switch to AISLO? 
+Request a demo. We run an audit of your products, feeds and site files first, so you can compare results before you change anything. Connecting your accounts takes a few minutes. 
+
+## Sources 
+ Peec AI pricing 
+Details are taken from the linked public pages, checked 25 November 2026. Platforms, plans and features change, so check the source before you decide. Spot something out of date? Email hello@useaislo.com and we will correct it. 
+
+ See every comparison → 
+
+## Compare AISLO with Peec AI on your own store 
+
+Book a demo and we run your audit first, so you can judge on real results. 
+
+ Request a demo See pricing →
+
+---
+
+# AISLO vs Profound: AI visibility for ecommerce compared | AISLO
+URL: https://useaislo.com/aislo-vs-profound
+
+Home / Compare / AISLO vs Profound 
+
+## AISLO vs Profound 
+
+Short answer 
+Profound is an enterprise AI visibility and content platform used by large brands. Profound is built for enterprise content teams. AISLO is built for the people who run an online store: feeds, product data, site files and the revenue they drive. If you sell products online, AISLO covers the work that decides whether AI recommends them. 
+
+Compared on 25 November 2026 using public information. 
+
+## Side by side 
+
+How the two compare on what matters to an online store. 
+
+ Feature AISLO Profound 
+ Built for Ecommerce brands and retailers Enterprise marketing teams 
+ AI answer tracking Yes, tracked against named competitors Yes, daily 
+ AI engines covered ChatGPT, Google AI Mode and AI Overviews, Shopify Catalog Up to 10 answer engines 
+ Product-level shopping visibility Yes, product by product ChatGPT Shopping included in Answer Engine Insights 
+ Product feed management Yes: Google Merchant Center, ChatGPT, Shopify Catalog, Microsoft, Meta in one view Not listed 
+ Feed error alerts Yes, when a feed breaks or products are disapproved Not listed 
+ Structured data checks Yes, product markup on every page Not listed 
+ robots.txt and AI crawler checks Yes, with alerts when the file changes Agent Analytics shows AI crawler traffic through CDN and analytics integrations 
+ agents.md and llms.txt checks Yes Not listed 
+ Fixes written for you to approve Yes: titles, attributes, feeds and site files, sent only after approval AI content agents; feed or listing write-back not listed 
+ Revenue from AI referrals Yes, orders and revenue by platform and product Not listed. AI traffic attribution is reported 
+ Pricing Quoted on SKU count, integrations and support, after a free audit Enterprise only, custom pricing. Self-serve plans were retired in September 2026 
+
+## Why ecommerce teams choose AISLO 
+
+Feeds, not just mentions 
+AI shopping ranks products from feed and catalog data. AISLO manages your feeds to Google Merchant Center, ChatGPT, Shopify Catalog, Microsoft and Meta in one place, and alerts you when one breaks. 
+
+The hidden layer, checked 
+Product metadata, structured data, robots.txt and agents.md are checked on every scan, so a plugin update or a missing GTIN does not quietly hide your products. 
+
+Revenue, not vanity metrics 
+AISLO matches AI referral sessions to orders, so you can see which fixes paid for themselves, product by product. 
+
+## When Profound may suit you better 
+
+Choose Profound if you are a large brand with an enterprise budget whose main goal is publishing content that AI engines cite, across many engines and languages. 
+
+## Questions 
+
+What is the difference between AISLO and Profound? 
+Profound is built for enterprise content teams. AISLO is built for the people who run an online store: feeds, product data, site files and the revenue they drive. 
+Is AISLO an alternative to Profound? 
+Yes, for ecommerce brands. AISLO covers AI answer tracking like Profound, and adds product feed management, site health checks for structured data, robots.txt and agents.md, approved fixes, and revenue from AI referrals. 
+When is Profound the better choice? 
+Profound may suit you better if you are a large brand with an enterprise budget whose main goal is publishing content that AI engines cite, across many engines and languages. 
+How do I switch to AISLO? 
+Request a demo. We run an audit of your products, feeds and site files first, so you can compare results before you change anything. Connecting your accounts takes a few minutes. 
+
+## Sources 
+ Profound pricing 
+Details are taken from the linked public pages, checked 25 November 2026. Platforms, plans and features change, so check the source before you decide. Spot something out of date? Email hello@useaislo.com and we will correct it. 
+
+ See every comparison → 
+
+## Compare AISLO with Profound on your own store 
+
+Book a demo and we run your audit first, so you can judge on real results. 
+
+ Request a demo See pricing →
+
+---
+
+# AISLO vs Scrunch: AI visibility for ecommerce compared | AISLO
+URL: https://useaislo.com/aislo-vs-scrunch
+
+Home / Compare / AISLO vs Scrunch 
+
+## AISLO vs Scrunch 
+
+Short answer 
+Scrunch is an AI customer experience platform known for its Agent Experience Platform (AXP), which serves AI agents a machine-readable version of your site. Scrunch changes how AI agents read your pages. AISLO goes to the product data AI shopping actually ranks on: your feeds in Merchant Center, ChatGPT and Shopify Catalog. If you sell products online, AISLO covers the work that decides whether AI recommends them. 
+
+Compared on 25 November 2026 using public information. 
+
+## Side by side 
+
+How the two compare on what matters to an online store. 
+
+ Feature AISLO Scrunch 
+ Built for Ecommerce brands and retailers Brands and agencies managing how AI agents read their site 
+ AI answer tracking Yes, tracked against named competitors Yes 
+ AI engines covered ChatGPT, Google AI Mode and AI Overviews, Shopify Catalog ChatGPT, Claude, Gemini, Perplexity, Google AI Mode and Overviews, Meta 
+ Product-level shopping visibility Yes, product by product Not listed on the pricing page 
+ Product feed management Yes: Google Merchant Center, ChatGPT, Shopify Catalog, Microsoft, Meta in one view Not listed 
+ Feed error alerts Yes, when a feed breaks or products are disapproved Not listed 
+ Structured data checks Yes, product markup on every page AXP serves a structured version of your pages to AI agents 
+ robots.txt and AI crawler checks Yes, with alerts when the file changes Site audits flag crawling issues 
+ agents.md and llms.txt checks Yes AXP changes what AI agents see on each page 
+ Fixes written for you to approve Yes: titles, attributes, feeds and site files, sent only after approval Feed or listing write-back not listed 
+ Revenue from AI referrals Yes, orders and revenue by platform and product Not listed. AI agent traffic is reported 
+ Pricing Quoted on SKU count, integrations and support, after a free audit Core from $250/month 
+
+## Why ecommerce teams choose AISLO 
+
+Feeds, not just mentions 
+AI shopping ranks products from feed and catalog data. AISLO manages your feeds to Google Merchant Center, ChatGPT, Shopify Catalog, Microsoft and Meta in one place, and alerts you when one breaks. 
+
+The hidden layer, checked 
+Product metadata, structured data, robots.txt and agents.md are checked on every scan, so a plugin update or a missing GTIN does not quietly hide your products. 
+
+Revenue, not vanity metrics 
+AISLO matches AI referral sessions to orders, so you can see which fixes paid for themselves, product by product. 
+
+## When Scrunch may suit you better 
+
+Choose Scrunch if you run a content-heavy or JavaScript-heavy site and want an edge layer that rewrites pages for AI crawlers. 
+
+## Questions 
+
+What is the difference between AISLO and Scrunch? 
+Scrunch changes how AI agents read your pages. AISLO goes to the product data AI shopping actually ranks on: your feeds in Merchant Center, ChatGPT and Shopify Catalog. 
+Is AISLO an alternative to Scrunch? 
+Yes, for ecommerce brands. AISLO covers AI answer tracking like Scrunch, and adds product feed management, site health checks for structured data, robots.txt and agents.md, approved fixes, and revenue from AI referrals. 
+When is Scrunch the better choice? 
+Scrunch may suit you better if you run a content-heavy or JavaScript-heavy site and want an edge layer that rewrites pages for AI crawlers. 
+How do I switch to AISLO? 
+Request a demo. We run an audit of your products, feeds and site files first, so you can compare results before you change anything. Connecting your accounts takes a few minutes. 
+
+## Sources 
+ Scrunch pricing 
+ Scrunch Agent Experience Platform 
+Details are taken from the linked public pages, checked 25 November 2026. Platforms, plans and features change, so check the source before you decide. Spot something out of date? Email hello@useaislo.com and we will correct it. 
+
+ See every comparison → 
+
+## Compare AISLO with Scrunch on your own store 
+
+Book a demo and we run your audit first, so you can judge on real results. 
+
+ Request a demo See pricing →
+
+---
+
+# AI shopping visibility guides for ecommerce | AISLO
+URL: https://useaislo.com/guides
+
+Home / Guides 
+
+## Guides to AI shopping visibility 
+
+How ChatGPT, Google AI Mode and Shopify Catalog choose products, and what an online store can do about it. 
+
+Best AI visibility tools for ecommerce brands in 2026 
+The best AI visibility tools for ecommerce brands in 2026, compared on shopping visibility, product feed management, site checks, revenue tracking and price. Read the guide → 
+How to get your products recommended in ChatGPT shopping 
+How ChatGPT picks products, and seven steps to get your products recommended in ChatGPT shopping: crawler access, structured data, product feeds, attributes, reviews and tracking. Read the guide → 
+How to get your products into Google AI Mode shopping 
+How Google AI Mode shopping works and how to get your products into it: Merchant Center data, the Shopping Graph, attributes, structured data, reviews and agentic checkout. Read the guide → 
+The AI product feed checklist for online stores 
+A product feed checklist for AI shopping: the attributes Google Merchant Center, ChatGPT, Shopify Catalog, Microsoft and Meta need, and the checks to run every week. Read the guide → 
+robots.txt for AI crawlers: what an online store should allow 
+Which AI crawlers an online store should allow in robots.txt: OAI-SearchBot, GPTBot, Googlebot, Google-Extended, PerplexityBot, ClaudeBot, Bingbot and more, with an example file. Read the guide → 
+
+ Glossary AI shopping terms, defined in one sentence each Open the glossary → 
+
+## Comparisons 
+
+All tools at a glance Compare → 
+AISLO vs Peec AI Compare → 
+AISLO vs Profound Compare → 
+AISLO vs Otterly.AI Compare → 
+AISLO vs AthenaHQ Compare → 
+AISLO vs Scrunch Compare → 
+
+## See how AI presents your brand today 
+
+We run your products through ChatGPT, Google and Shopify and walk you through what we find. 
+
+ Request a demo See pricing →
+
+---
+
+# AI shopping and AI visibility glossary | AISLO
+URL: https://useaislo.com/glossary
+
+Home / Guides / Glossary 
+
+## AI shopping glossary 
+
+The terms that come up when you work on how AI assistants find and recommend your products, defined in one sentence each. 
+
+AI visibility 
+How often, and how accurately, AI assistants such as ChatGPT, Google AI Mode and Perplexity mention and recommend a brand or its products. 
+
+Generative engine optimisation (GEO) 
+The practice of improving how content and products appear in answers written by AI assistants, as opposed to ranked links on a search results page. 
+
+AI shopping 
+Product discovery and buying inside AI assistants, such as ChatGPT shopping results, Google AI Mode product panels and Shopify Agentic Storefronts. 
+
+Product feed 
+A structured file or API stream of a store's products, with fields such as ID, title, price, availability, brand and GTIN, sent to platforms like Google Merchant Center or ChatGPT. 
+
+Feed destination 
+A platform that receives a product feed, for example Google Merchant Center, ChatGPT, Shopify Catalog, Microsoft Merchant Center or Meta catalog. 
+
+Google Merchant Center 
+Google's tool for submitting product data. Its listings feed the Shopping Graph that powers Google AI Mode shopping, AI Overviews and Gemini. 
+
+Shopping Graph 
+Google's product dataset, with more than 50 billion listings, used by AI Mode and Google Shopping to answer shopping questions. 
+
+Shopify Catalog 
+Shopify's structured product data system that makes eligible merchants' products discoverable in AI channels such as ChatGPT, Microsoft Copilot and Google AI Mode through Agentic Storefronts. 
+
+Agentic checkout 
+A purchase completed by an AI assistant on the shopper's behalf, after the shopper confirms, without leaving the conversation. 
+
+Structured data 
+Machine-readable markup, usually schema.org Product markup, that tells crawlers a product's price, availability, brand, identifiers and reviews. 
+
+GTIN 
+Global Trade Item Number: the barcode identifier platforms use to match a product to reviews, comparisons and other sellers. 
+
+robots.txt 
+A file at the root of a website that tells crawlers, including AI crawlers such as OAI-SearchBot and PerplexityBot, which pages they may read. 
+
+agents.md 
+A plain-language file for AI agents that visit a site, describing what the business sells, where to find it and how to buy. 
+
+llms.txt 
+A markdown file at the root of a website that gives AI models a short guide to the site's most useful pages. 
+
+Share of AI answers 
+The percentage of tracked AI answers for a set of questions that mention or recommend a brand. 
+
+SKU 
+Stock keeping unit: one sellable item, including each variant that has its own identifier. AISLO is priced by the number of SKUs it manages. 
+
+Read next 
+ How to get your products recommended in ChatGPT shopping 
+ The AI product feed checklist for online stores 
+ How AISLO compares with other AI visibility tools 
+
+## See how AI presents your brand today 
+
+We run your products through ChatGPT, Google and Shopify and walk you through what we find. 
+
+ Request a demo See pricing →
+
+---
+
+# The AI product feed checklist for online stores | AISLO
+URL: https://useaislo.com/guide-ai-product-feed-checklist
+
+Home / Guides / The AI product feed checklist for online stores 
+
+## The AI product feed checklist for online stores 
+
+By the AISLO team. Updated 25 November 2026. 
+
+Short answer 
+AI shopping platforms build answers from your product feed, so every product needs a unique ID, a descriptive title, a full description, price, availability, brand, GTIN, clear images, a product link and its key attributes such as size, colour and material. Then keep feeds in sync with your site and check them weekly. 
+
+Key points 
+Feeds now supply AI assistants as well as search engines. 
+The same core attributes serve Merchant Center, ChatGPT and Shopify Catalog. 
+Price and stock must agree between your feed and your site. 
+Check every destination weekly; errors often appear without warning. 
+ Short answer Where do your product feeds go? Which attributes does every product need? What should I check every week? Questions 
+
+## Where do your product feeds go? 
+
+ Destination What it feeds How products get there 
+
+ Google Merchant Center Shopping Graph, AI Mode, AI Overviews, Gemini, free listings and ads Feed file, API or platform sync 
+
+ ChatGPT ChatGPT shopping results and Instant Checkout Direct product feed (by application) or Shopify Catalog 
+
+ Shopify Catalog ChatGPT, Microsoft Copilot, AI Mode and the Gemini app through Agentic Storefronts Automatic for eligible Shopify stores 
+
+ Microsoft Merchant Center Bing shopping and Microsoft surfaces Feed file or import from Google 
+
+ Meta catalog Shops and ads on Facebook and Instagram Feed file, pixel or platform sync 
+
+## Which attributes does every product need? 
+
+ Unique ID Stable across every feed and never reused. 
+
+ Descriptive title What it is, then brand, size, colour or material. Not just a product name. 
+
+ Full description Plain facts a shopper would ask about: use, ingredients or materials, dimensions, care. 
+
+ Price and availability Matching your site exactly, including sale prices and dates. 
+
+ Brand and GTIN Identifiers are how platforms match your product to reviews and comparisons. 
+
+ Images A clear main image, plus extra angles. No text overlays on the main image. 
+
+ Product link To a live, crawlable page with matching structured data. 
+
+ Variant attributes Size, colour, material and pattern on each variant, grouped with an item group ID. 
+
+ Category The platform's product category, not just your own collection name. 
+
+ Shipping and returns Costs, times and return window, so assistants can answer delivery questions. 
+
+## What should I check every week? 
+
+Disapproved and warned products in each destination. 
+
+Price and stock mismatches between feed and site. 
+
+New products missing GTIN or key attributes. 
+
+Changes to robots.txt or structured data after site updates. 
+
+Which products AI assistants actually recommend, and for which questions. 
+
+AISLO runs these checks across all five destinations and alerts you when something breaks. See feeds and site health . 
+
+## Questions 
+
+Is one feed enough for every AI platform? 
+The core attributes overlap, but each destination has its own format, rules and errors. Build from one clean source of product data, then check each destination separately. 
+What is the most common feed error? 
+Mismatched price or availability between the feed and the product page, followed by missing identifiers such as GTIN. 
+Do Shopify stores need a separate ChatGPT feed? 
+Eligible Shopify stores are discoverable in ChatGPT through Shopify Catalog. Non-Shopify merchants can apply to OpenAI for a direct product feed. 
+How often should feeds update? 
+As often as price and stock change. Daily is a minimum for most stores; fast-moving stock needs more frequent updates. 
+
+## Sources 
+ Google Merchant Center: Insights for AI-powered shopping 
+ OpenAI: Shopping with ChatGPT Search 
+ Shopify: How agentic commerce works 
+Details are taken from the linked public pages, checked 25 November 2026. Platforms, plans and features change, so check the source before you decide. Spot something out of date? Email hello@useaislo.com and we will correct it. 
+
+More guides 
+ Best AI visibility tools for ecommerce brands in 2026 
+ How to get your products recommended in ChatGPT shopping 
+ How to get your products into Google AI Mode shopping 
+ robots.txt for AI crawlers: what an online store should allow 
+
+## See how AI presents your brand today 
+
+We run your products through ChatGPT, Google and Shopify and walk you through what we find. 
+
+ Request a demo See pricing →
+
+---
+
+# Best AI visibility tools for ecommerce brands in 2026 | AISLO
+URL: https://useaislo.com/guide-best-ai-visibility-tools-for-ecommerce
+
+Home / Guides / Best AI visibility tools for ecommerce brands in 2026 
+
+## Best AI visibility tools for ecommerce brands in 2026 
+
+By the AISLO team. Updated 25 November 2026. 
+
+Short answer 
+The best AI visibility tool for an ecommerce brand is one that works on product data, not just brand mentions. AISLO is built for online stores and manages feeds, site files and revenue. Peec AI, Profound, Otterly.AI, AthenaHQ and Scrunch are strong general tools for prompt tracking and content. 
+
+Key points 
+AI shopping answers are built from product data: feeds, catalogs and structured data. 
+Most AI visibility tools track mentions and citations; few touch product feeds. 
+Check whether a tool can show revenue, not just visits, from AI platforms. 
+Price ranges from about €29 a month to custom enterprise contracts. 
+ Short answer What should an ecommerce brand look for in an AI visibility tool? The best AI visibility tools for ecommerce Questions 
+
+## What should an ecommerce brand look for in an AI visibility tool? 
+
+A brand that sells products needs more than a count of mentions. ChatGPT says it considers structured metadata such as price and product description from first-party and third-party providers when it picks products. Google's AI Mode shopping is powered by the Shopping Graph, which Google says holds more than 50 billion product listings. Both run on product data, so the right tool has to reach it. 
+
+ Product-level visibility: which of your products appear, for which questions, next to which competitors. 
+
+ Feed management: one view of your feeds to Google Merchant Center, ChatGPT, Shopify Catalog, Microsoft and Meta, with alerts. 
+
+ Site health: checks on product metadata, structured data, robots.txt and agents.md. 
+
+ Fixes: changes written in each platform's format, applied only when you approve them. 
+
+ Revenue: orders and revenue from AI referrals, not just sessions. 
+
+## The best AI visibility tools for ecommerce 
+
+ Tool Best for Feed management Starting price 
+
+ AISLO Ecommerce brands that want feeds, site health, AI answers and revenue in one place Yes, five destinations Quoted by SKU count, free audit 
+
+ Peec AI Marketing teams tracking prompts across models and countries Not listed $95/month 
+
+ Profound Enterprise content teams Not listed Custom 
+
+ Otterly.AI Low-cost prompt monitoring Not listed €29/month 
+
+ AthenaHQ GEO content research and writing Not listed Free tier; $295/month 
+
+ Scrunch Serving AI agents an optimised version of your site Not listed $250/month 
+
+## 1. AISLO 
+
+AISLO is built for online stores. It tracks how ChatGPT, Google AI Mode and Shopify Catalog present your products, manages your product feeds in one view, checks the files AI crawlers read, writes fixes for you to approve and ties AI referrals to orders. See the platform . 
+
+## 2. Peec AI 
+
+Peec AI offers daily prompt tracking with unlimited seats and SKU-level AI Shopping tracking. Catalogs can be imported from Shopify or a CSV, but feed management is not listed. AISLO vs Peec AI . 
+
+## 3. Profound 
+
+Profound is an enterprise platform covering up to 10 answer engines, with content agents and AI crawler analytics. It is sold on custom enterprise contracts. AISLO vs Profound . 
+
+## 4. Otterly.AI 
+
+Otterly.AI is the lowest-cost way to start monitoring prompts, with a crawlability check included. Its pricing page lists no ecommerce features. AISLO vs Otterly.AI . 
+
+## 5. AthenaHQ 
+
+AthenaHQ covers many engines and focuses on researching and writing content that AI engines cite. It lists a Shopify integration on paid plans. AISLO vs AthenaHQ . 
+
+## 6. Scrunch 
+
+Scrunch's Agent Experience Platform serves AI agents a stripped-down, structured version of your pages through your CDN. AISLO vs Scrunch . 
+
+Disclosure: AISLO is our product. Competitor details come from each vendor's public pricing page, checked 25 November 2026. 
+
+## Questions 
+
+What is an AI visibility tool? 
+An AI visibility tool shows how AI platforms such as ChatGPT, Google AI Mode and Perplexity describe and recommend your brand. Ecommerce versions also look at the product data those platforms use. 
+Which AI visibility tool is best for Shopify stores? 
+AISLO is built for online stores, including Shopify. It reads your catalog, compares how ChatGPT and Shopify Catalog describe each product, and writes approved fixes back. 
+What is the cheapest AI visibility tool? 
+Otterly.AI starts at €29 a month and AthenaHQ has a free tier. Neither lists product feed management. 
+Do I need an AI visibility tool if I already use an SEO tool? 
+SEO tools track rankings on search results pages. AI shopping answers are built from product feeds and structured data, which most SEO tools do not manage. 
+
+## Sources 
+ OpenAI: Shopping with ChatGPT Search 
+ Google: Shop with AI Mode 
+ Peec AI pricing 
+ Profound pricing 
+ Otterly.AI pricing 
+ AthenaHQ pricing 
+ Scrunch pricing 
+Details are taken from the linked public pages, checked 25 November 2026. Platforms, plans and features change, so check the source before you decide. Spot something out of date? Email hello@useaislo.com and we will correct it. 
+
+More guides 
+ How to get your products recommended in ChatGPT shopping 
+ How to get your products into Google AI Mode shopping 
+ The AI product feed checklist for online stores 
+ robots.txt for AI crawlers: what an online store should allow 
+
+## See how AI presents your brand today 
+
+We run your products through ChatGPT, Google and Shopify and walk you through what we find. 
+
+ Request a demo See pricing →
+
+---
+
+# How to get your products recommended in ChatGPT shopping | AISLO
+URL: https://useaislo.com/guide-chatgpt-shopping-product-recommendations
+
+Home / Guides / How to get your products recommended in ChatGPT shopping 
+
+## How to get your products recommended in ChatGPT shopping 
+
+By the AISLO team. Updated 25 November 2026. 
+
+Short answer 
+ChatGPT picks products itself; they are not ads. It weighs your query against product data such as price and description from merchants and third parties. To be recommended, let OpenAI's search crawler in, publish complete structured data, send a product feed (directly or through Shopify Catalog) and write titles that match how shoppers ask. 
+
+Key points 
+Product results in ChatGPT are selected by ChatGPT and are not ads. 
+ChatGPT uses structured metadata like price and description from first-party and third-party sources. 
+Merchants can apply to send OpenAI a direct product feed. 
+Eligible Shopify stores are discoverable in ChatGPT through Shopify Catalog. 
+ Short answer How does ChatGPT choose which products to show? How do I get my products recommended in ChatGPT? How do I measure sales from ChatGPT? Questions 
+
+## How does ChatGPT choose which products to show? 
+
+OpenAI says product results are selected independently by ChatGPT, are not ads and are not influenced by OpenAI partnerships. A product appears when ChatGPT judges it relevant to the shopper's intent, using the question plus context such as Memory. When deciding, it considers structured metadata from first-party and third-party providers, for example price and product description, along with other third-party content. 
+
+ChatGPT can also show review summaries generated from reviews on public websites, and labels such as "Budget-friendly". For some eligible products and merchants it offers Instant Checkout inside ChatGPT. 
+
+## How do I get my products recommended in ChatGPT? 
+
+ Let OpenAI's search crawler in. Check that robots.txt does not block OAI-SearchBot. See our robots.txt guide . 
+
+ Publish complete product structured data. Price, availability, brand, GTIN, images and reviews in Product markup on every product page. 
+
+ Send a product feed. OpenAI invites merchants to apply for a direct product feed so ChatGPT reflects current product information. On Shopify, eligible stores are discoverable through Shopify Catalog by default. 
+
+ Write titles and attributes the way shoppers ask. "Linen shirt, relaxed fit, breathable, sand" matches more questions than "Linen shirt". 
+
+ Earn reviews on public sites. ChatGPT's review summaries come from public websites, so reviews that only live behind a login do not help. 
+
+ Keep price and stock in sync. A feed that disagrees with your site gives ChatGPT a reason to pick another merchant. 
+
+ Track the questions that matter. Run your category's real questions regularly and record which products appear, in what position, against which competitors. 
+
+## How do I measure sales from ChatGPT? 
+
+Shopify says orders that come through its ChatGPT integration appear in the Shopify admin with ChatGPT referral attribution. For other stacks, tag ChatGPT referral sessions in your analytics and match them to orders. AISLO does this for you by platform and product. 
+
+## Questions 
+
+Can I pay to appear in ChatGPT shopping results? 
+No. OpenAI says product results are selected independently and are not ads. Ads in ChatGPT are shown separately. 
+How do I submit products to ChatGPT? 
+OpenAI lets merchants apply to provide a direct product feed. Eligible Shopify merchants are discoverable through Shopify Catalog without a separate integration. 
+Does robots.txt affect ChatGPT shopping? 
+It can. If OAI-SearchBot is blocked, ChatGPT search cannot read your pages directly. Check the file after every plugin or theme change. 
+How long does it take to show up? 
+There is no published timeline. Fixing feed errors and structured data is the fastest lever because it changes the data ChatGPT already reads. 
+
+## Sources 
+ OpenAI: Shopping with ChatGPT Search 
+ Shopify: How agentic commerce works 
+ Shopify: Agentic commerce momentum 
+Details are taken from the linked public pages, checked 25 November 2026. Platforms, plans and features change, so check the source before you decide. Spot something out of date? Email hello@useaislo.com and we will correct it. 
+
+More guides 
+ Best AI visibility tools for ecommerce brands in 2026 
+ How to get your products into Google AI Mode shopping 
+ The AI product feed checklist for online stores 
+ robots.txt for AI crawlers: what an online store should allow 
+
+## See how AI presents your brand today 
+
+We run your products through ChatGPT, Google and Shopify and walk you through what we find. 
+
+ Request a demo See pricing →
+
+---
+
+# How to get your products into Google AI Mode shopping | AISLO
+URL: https://useaislo.com/guide-google-ai-mode-shopping
+
+Home / Guides / How to get your products into Google AI Mode shopping 
+
+## How to get your products into Google AI Mode shopping 
+
+By the AISLO team. Updated 25 November 2026. 
+
+Short answer 
+Google AI Mode shopping combines Gemini with the Shopping Graph, Google's product dataset of more than 50 billion listings. Products reach it through Google Merchant Center. To show up, keep your Merchant Center feed complete and accurate, fill every product attribute, match it with on-page structured data and fix disapprovals quickly. 
+
+Key points 
+AI Mode shopping is powered by Gemini plus the Shopping Graph. 
+Google says about 2 billion listings are refreshed every hour. 
+Your Merchant Center feed is the main way products reach AI Mode. 
+Merchant Center is adding AI performance insights and an attribute completeness score. 
+ Short answer How does Google AI Mode choose products? How do I get my products into AI Mode shopping? Is AI Mode different from Google Shopping ads? Questions 
+
+## How does Google AI Mode choose products? 
+
+Google describes AI Mode shopping as Gemini working with the Shopping Graph. The Shopping Graph holds more than 50 billion product listings, with around 2 billion refreshed every hour, each with details such as reviews, prices, colour options and availability. When a shopper asks a question, AI Mode builds a panel of products that match the request. 
+
+Those listings come from Google Merchant Center. In May 2026 Google announced AI performance insights in Merchant Center to show how products are discovered in AI Mode, AI Overviews and the Gemini app, along with an attribute completeness score that flags products missing structured attributes. 
+
+## How do I get my products into AI Mode shopping? 
+
+ Connect a clean Merchant Center feed. Fix every disapproval and warning first; a disapproved product cannot be shown. 
+
+ Fill every attribute. GTIN, brand, size, colour, material, age group and product category. Use the attribute completeness score as your to-do list. 
+
+ Write descriptive titles. Lead with what the product is, then the attributes people ask about. 
+
+ Match your site to your feed. On-page Product structured data should agree with the feed on price and availability. 
+
+ Collect product reviews. Reviews are part of the product details shown in the Shopping Graph. 
+
+ Keep images clean. Clear product images on plain backgrounds, plus lifestyle images where the category needs them. 
+
+ Turn on agentic checkout where available. Google is rolling out agentic checkout in the US. Shopify merchants can manage direct checkout for AI Mode in Agentic Storefronts. 
+
+## Is AI Mode different from Google Shopping ads? 
+
+Yes. Ads are paid placements. AI Mode product panels draw on the Shopping Graph, which includes free listings from Merchant Center. Good feed data helps both. 
+
+## Questions 
+
+Do I need Google Merchant Center for AI Mode? 
+Merchant Center is how most stores get products into the Shopping Graph that powers AI Mode shopping. Shopify syncs product data to Merchant Center through its Google channel. 
+What is the attribute completeness score? 
+A Merchant Center measure Google announced in May 2026 that shows which products are missing structured product attributes. 
+Does structured data on my site matter if I have a feed? 
+Yes. Keep on-page Product markup consistent with your feed so price and availability agree everywhere Google reads them. 
+Is AI Mode available everywhere? 
+Features roll out by market. Google first launched several AI Mode shopping features, including agentic checkout, in the US. 
+
+## Sources 
+ Google: Shop with AI Mode 
+ Google: Agentic checkout and AI shopping 
+ Google Merchant Center: Insights for AI-powered shopping 
+ Shopify: How agentic commerce works 
+Details are taken from the linked public pages, checked 25 November 2026. Platforms, plans and features change, so check the source before you decide. Spot something out of date? Email hello@useaislo.com and we will correct it. 
+
+More guides 
+ Best AI visibility tools for ecommerce brands in 2026 
+ How to get your products recommended in ChatGPT shopping 
+ The AI product feed checklist for online stores 
+ robots.txt for AI crawlers: what an online store should allow 
+
+## See how AI presents your brand today 
+
+We run your products through ChatGPT, Google and Shopify and walk you through what we find. 
+
+ Request a demo See pricing →
+
+---
+
+# robots.txt for AI crawlers: what an online store should allow | AISLO
+URL: https://useaislo.com/guide-robots-txt-ai-crawlers-ecommerce
+
+Home / Guides / robots.txt for AI crawlers: what an online store should allow 
+
+## robots.txt for AI crawlers: what an online store should allow 
+
+By the AISLO team. Updated 25 November 2026. 
+
+Short answer 
+An online store that wants to appear in AI shopping answers should allow the search crawlers AI assistants use to read pages: Googlebot, Bingbot, OAI-SearchBot, ChatGPT-User, PerplexityBot and Claude-SearchBot. Training crawlers such as GPTBot, Google-Extended and ClaudeBot are a separate choice. Check the file after every plugin, theme or CDN change. 
+
+Key points 
+Search crawlers and training crawlers are different bots with different names. 
+Blocking a search crawler can remove your pages from that assistant's answers. 
+Google-Extended does not control whether you appear in Google Search. 
+robots.txt is a request, and one line from a plugin can change it. 
+ Short answer Which AI crawlers visit an online store? What does a good robots.txt look like for an online store? What are the most common robots.txt mistakes? Questions 
+
+## Which AI crawlers visit an online store? 
+
+ User agent Owner What it is for For a store that wants AI sales 
+
+ Googlebot Google Google Search, including AI Overviews and AI Mode Allow 
+
+ Google-Extended Google Whether content is used for Gemini models; does not affect Search Your choice 
+
+ Bingbot Microsoft Bing, which also informs Copilot Allow 
+
+ OAI-SearchBot OpenAI ChatGPT search results Allow 
+
+ ChatGPT-User OpenAI Pages fetched when a ChatGPT user asks Allow 
+
+ GPTBot OpenAI Training OpenAI models Your choice 
+
+ PerplexityBot Perplexity Perplexity search results Allow 
+
+ Claude-SearchBot Anthropic Claude search results Allow 
+
+ ClaudeBot Anthropic Training Anthropic models Your choice 
+
+ Applebot-Extended Apple Whether content is used for Apple's AI models Your choice 
+
+## What does a good robots.txt look like for an online store? 
+
+This example lets every search and assistant crawler in, keeps private areas closed, and points to the sitemap. Change the training bots to Disallow: / if you do not want your content used for model training. 
+
+ User-agent: *
+Disallow: /cart
+Disallow: /checkout
+Disallow: /account
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://www.example.com/sitemap.xml 
+
+## What are the most common robots.txt mistakes? 
+
+ A security or SEO plugin blocks AI bots by default. Check the live file after installing or updating one. 
+
+ A CDN or firewall blocks the bot before robots.txt is read. Bot protection settings can override an Allow line. 
+
+ A staging rule ships to production. Disallow: / under User-agent: * hides the whole store. 
+
+ Product pages blocked by a parameter rule. Over-broad rules for filters can catch product URLs too. 
+
+AISLO checks your robots.txt on every scan and alerts you when it changes. See site health checks . 
+
+## Questions 
+
+Should I block GPTBot? 
+GPTBot is OpenAI's training crawler. Blocking it is a choice about model training; it is separate from OAI-SearchBot, which ChatGPT uses for search results. 
+Does blocking Google-Extended remove me from AI Overviews? 
+No. Google says Google-Extended does not affect inclusion in Google Search. AI Overviews and AI Mode use Googlebot. 
+Is robots.txt enough to control AI crawlers? 
+No. robots.txt is a request that reputable crawlers follow. Firewalls and CDN bot settings can also block or allow bots. 
+How often should I check robots.txt? 
+After every plugin, theme, CDN or platform change, and at least weekly. AISLO checks it on every scan. 
+
+## Sources 
+ OpenAI: Overview of OpenAI crawlers 
+ Google: Google's common crawlers 
+ Perplexity: Perplexity crawlers 
+ Anthropic: Does Anthropic crawl data from the web? 
+Details are taken from the linked public pages, checked 25 November 2026. Platforms, plans and features change, so check the source before you decide. Spot something out of date? Email hello@useaislo.com and we will correct it. 
+
+More guides 
+ Best AI visibility tools for ecommerce brands in 2026 
+ How to get your products recommended in ChatGPT shopping 
+ How to get your products into Google AI Mode shopping 
+ The AI product feed checklist for online stores 
+
+## See how AI presents your brand today 
+
+We run your products through ChatGPT, Google and Shopify and walk you through what we find. 
+
+ Request a demo See pricing →

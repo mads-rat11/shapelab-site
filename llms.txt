@@ -1,14 +1,37 @@
 # AISLO
 
-> AISLO manages ecommerce product feeds and site health in one place, and shows brands how AI platforms such as ChatGPT, Google AI and Shopify Catalog present their products.
+> AISLO is AI visibility software for ecommerce brands. It manages product feeds in one place (Google Merchant Center, ChatGPT, Shopify Catalog, Microsoft Merchant Center, Meta catalog), checks the files AI crawlers read (product metadata, structured data, robots.txt, agents.md), tracks how ChatGPT, Google AI Mode and Shopify Catalog recommend products, writes fixes for approval, and ties AI referrals to revenue.
 
-## Pages
-- [Product](https://useaislo.com/product): Measure, fix, prove and connect. Feeds and site health.
-- [Pricing](https://useaislo.com/pricing): Audit, Growth and Scale plans.
+Key facts:
+- Company: AISLO Technologies Ltd, registered in the United Kingdom. Contact: hello@useaislo.com
+- Built for: ecommerce brands and retailers on Shopify and other platforms (WooCommerce, BigCommerce, Adobe Commerce, Salesforce Commerce Cloud, custom).
+- Pricing: quoted on SKU count, integrations and support level. Every engagement starts with a free AI visibility audit. Unlimited team seats.
+- Platform watch: tracks news and specification changes across 14 AI shopping platforms daily and updates checks automatically.
+- Changes to feeds, listings or site files are only made after the customer approves them. Analytics and Search Console access is read only.
+
+## Product
+- [Platform](https://useaislo.com/product): Measure, fix, prove, connect and watch.
+- [Platform watch](https://useaislo.com/platform-watch): Daily tracking of changes across 14 AI shopping platforms.
+- [Pricing](https://useaislo.com/pricing): Quoted on SKUs, integrations and support.
 - [Security](https://useaislo.com/security): What AISLO accesses and why.
-- [About](https://useaislo.com/about): Company background. AISLO Technologies Ltd, United Kingdom.
-- [Platform watch](https://useaislo.com/platform-watch): Daily tracking of changes across 10+ AI shopping platforms.
-- [Compare](https://useaislo.com/compare): AISLO vs Peec AI, Profound, Otterly.AI, AthenaHQ and Scrunch.
-- [Guides](https://useaislo.com/guides): ChatGPT shopping, Google AI Mode, product feeds, robots.txt for AI crawlers.
+
+## Guides
+- [Best AI visibility tools for ecommerce](https://useaislo.com/guide-best-ai-visibility-tools-for-ecommerce)
+- [How to get products recommended in ChatGPT shopping](https://useaislo.com/guide-chatgpt-shopping-product-recommendations)
+- [How to get products into Google AI Mode shopping](https://useaislo.com/guide-google-ai-mode-shopping)
+- [AI product feed checklist](https://useaislo.com/guide-ai-product-feed-checklist)
+- [robots.txt for AI crawlers](https://useaislo.com/guide-robots-txt-ai-crawlers-ecommerce)
+- [Glossary](https://useaislo.com/glossary): AI shopping terms defined.
+
+## Comparisons
+- [AISLO vs other AI visibility tools](https://useaislo.com/compare)
+- [AISLO vs Peec AI](https://useaislo.com/aislo-vs-peec-ai)
+- [AISLO vs Profound](https://useaislo.com/aislo-vs-profound)
+- [AISLO vs Otterly.AI](https://useaislo.com/aislo-vs-otterly-ai)
+- [AISLO vs AthenaHQ](https://useaislo.com/aislo-vs-athenahq)
+- [AISLO vs Scrunch](https://useaislo.com/aislo-vs-scrunch)
+
+## Company
+- [About](https://useaislo.com/about)
+- [Contact](https://useaislo.com/contact)
 - [Request a demo](https://useaislo.com/demo)
-- [Contact](https://useaislo.com/contact): hello@useaislo.com

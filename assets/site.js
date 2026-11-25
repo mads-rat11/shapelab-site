@@ -93,14 +93,34 @@
     v.addEventListener('play', sync); v.addEventListener('pause', sync); sync();
   }
 
-  // Pricing: monthly or yearly
-  const billBtns = document.querySelectorAll('.billing button');
-  billBtns.forEach((btn) => btn.addEventListener('click', () => {
-    const k = btn.dataset.bill;
-    billBtns.forEach((b) => { const on = b === btn; b.classList.toggle('on', on); b.setAttribute('aria-pressed', String(on)); });
-    document.querySelectorAll('.plan .amt[data-m]').forEach((a) => { a.textContent = '$' + a.dataset[k]; });
-    document.querySelectorAll('.plan .bill[data-m]').forEach((b) => { b.textContent = b.dataset[k]; });
-  }));
+  // Pricing: live quote summary
+  const qf = document.getElementById('quote-form');
+  if (qf) {
+    const upd = () => {
+      const sku = qf.querySelector('input[name=sku]:checked');
+      const ints = [...qf.querySelectorAll('input[name=integrations]:checked')].map((i) => i.value);
+      const sup = qf.querySelector('input[name=support]:checked');
+      document.getElementById('qs-sku').textContent = sku ? sku.value : 'Not chosen';
+      document.getElementById('qs-int').textContent = ints.length ? ints.length + (ints.length === 1 ? ' integration' : ' integrations') : 'None yet';
+      document.getElementById('qs-sup').textContent = sup ? sup.value : 'Not chosen';
+    };
+    qf.addEventListener('change', upd); upd();
+  }
+
+  // Demo page: carry a quote request from the pricing page into the form
+  try {
+    const q = new URLSearchParams(location.search);
+    const notes = document.getElementById('d-notes');
+    if (notes && (q.get('sku') || q.getAll('integrations').length || q.get('support'))) {
+      const size = document.getElementById('d-size');
+      if (size && q.get('sku')) [...size.options].forEach((o) => { if (o.value === q.get('sku') || o.text === q.get('sku')) size.value = o.value || o.text; });
+      const lines = ['Quote request'];
+      if (q.get('sku')) lines.push('Catalog: ' + q.get('sku'));
+      if (q.getAll('integrations').length) lines.push('Integrations: ' + q.getAll('integrations').join(', '));
+      if (q.get('support')) lines.push('Support: ' + q.get('support'));
+      notes.value = lines.join('\n');
+    }
+  } catch (e) {}
 
   // Footer year
   for (const y of document.querySelectorAll('[data-year]')) y.textContent = new Date().getFullYear();
