@@ -277,7 +277,7 @@ td.c,th.c{text-align:center}
   .compare th:first-child{width:30%}
   .compare td{overflow-wrap:anywhere}
 }
-.brand,.foot-brand{letter-spacing:.04em}
+
 
 /* comparisons and guides */
 .crumbs{display:flex;flex-wrap:wrap;gap:6px 10px;font-size:14px;color:var(--mute);margin-bottom:24px}
@@ -443,3 +443,11 @@ a.path:hover{opacity:1}a.path:hover .stage .panel{transform:translateY(-3px)}
 .demo-toggle{position:absolute;right:12px;bottom:12px;min-height:34px;padding:0 12px;border-radius:999px;border:1px solid var(--line);background:rgba(255,255,255,.92);color:var(--ink);font:500 13px var(--sans);cursor:pointer;opacity:.85}
 .demo-toggle:hover{opacity:1}
 @media(max-width:600px){.demo-toggle{min-height:26px;padding:0 10px;font-size:12px;right:8px;bottom:8px}}
+
+/* logo: Aisle mark + Newsreader Light wordmark */
+.brand,.foot-brand{display:inline-flex;align-items:center;gap:11px;font-family:var(--serif);font-weight:300;letter-spacing:-.02em;line-height:1}
+.brand{font-size:28px}
+.brand svg{width:27px;height:27px;flex:none}
+.foot-brand{font-size:30px;margin:0}
+.foot-brand svg{width:29px;height:29px;flex:none}
+@media(max-width:600px){.brand{font-size:26px}.brand svg{width:25px;height:25px}}
