@@ -1,0 +1,14 @@
+# AISLO
+
+> AISLO manages ecommerce product feeds and site health in one place, and shows brands how AI platforms such as ChatGPT, Google AI and Shopify Catalog present their products.
+
+## Pages
+- [Product](https://useaislo.com/product): Measure, fix, prove and connect. Feeds and site health.
+- [Pricing](https://useaislo.com/pricing): Audit, Growth and Scale plans.
+- [Security](https://useaislo.com/security): What AISLO accesses and why.
+- [About](https://useaislo.com/about): Company background. AISLO Technologies Ltd, United Kingdom.
+- [Platform watch](https://useaislo.com/platform-watch): Daily tracking of changes across 10+ AI shopping platforms.
+- [Compare](https://useaislo.com/compare): AISLO vs Peec AI, Profound, Otterly.AI, AthenaHQ and Scrunch.
+- [Guides](https://useaislo.com/guides): ChatGPT shopping, Google AI Mode, product feeds, robots.txt for AI crawlers.
+- [Request a demo](https://useaislo.com/demo)
+- [Contact](https://useaislo.com/contact): hello@shapelab.me

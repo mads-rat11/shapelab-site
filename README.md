@@ -1,7 +1,8 @@
-# shapelab.me
+# useaislo.com
 
-Static landing page for Shapelab, served by GitHub Pages at https://shapelab.me.
+Marketing site for AISLO (AISLO Technologies Ltd), served by GitHub Pages at https://useaislo.com.
 
-- `index.html` is the whole site: no build step, no dependencies.
-- `CNAME` binds the custom domain. Don't delete it, or Pages drops shapelab.me.
-- To collect early-access signups, set `data-endpoint` on the `<form>` in `index.html` to a form service URL (Formspree, Tally, etc.).
+- Plain static HTML, CSS and JS. No build step.
+- `CNAME` binds the custom domain. Don't delete it, or Pages drops useaislo.com.
+- Forms post to hello@shapelab.me through FormSubmit (`assets/site.js`). The first submission sends a one-time activation email.
+- Previously this repo served the Shapelab landing page at shapelab.me; that version is in the git history.
