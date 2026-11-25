@@ -11,4 +11,4 @@
 - [Compare](https://useaislo.com/compare): AISLO vs Peec AI, Profound, Otterly.AI, AthenaHQ and Scrunch.
 - [Guides](https://useaislo.com/guides): ChatGPT shopping, Google AI Mode, product feeds, robots.txt for AI crawlers.
 - [Request a demo](https://useaislo.com/demo)
-- [Contact](https://useaislo.com/contact): hello@shapelab.me
+- [Contact](https://useaislo.com/contact): hello@useaislo.com

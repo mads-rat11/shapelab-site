@@ -1,4 +1,20 @@
 {
+  document.documentElement.classList.add('js');
+
+  // Header shadow on scroll
+  const headEl = document.querySelector('.site-head');
+  const onScroll = () => headEl && headEl.classList.toggle('scrolled', window.scrollY > 8);
+  window.addEventListener('scroll', onScroll, { passive: true }); onScroll();
+
+  // Reveal on scroll
+  const revealEls = document.querySelectorAll('.feature, .card, .plan, .step, .path, .rule-item, .facts > div, .health, .announce, .faq, .checklist li');
+  if ('IntersectionObserver' in window) {
+    const io = new IntersectionObserver((entries) => {
+      for (const en of entries) if (en.isIntersecting) { en.target.classList.add('in'); io.unobserve(en.target); }
+    }, { rootMargin: '0px 0px -8% 0px', threshold: 0.08 });
+    revealEls.forEach((el) => { el.classList.add('reveal'); io.observe(el); });
+  }
+
   // Mobile menu
   const btn = document.querySelector('.menu-btn');
   const nav = document.getElementById('site-nav');
@@ -16,7 +32,7 @@
 
   // Forms: sent by email through FormSubmit (https://formsubmit.co).
   // The first submission sends a one-time activation email to the address below.
-  const INBOX = 'hello@shapelab.me';
+  const INBOX = 'hello@useaislo.com';
   const ENDPOINT = 'https://formsubmit.co/ajax/' + INBOX;
 
   for (const form of document.querySelectorAll('form[data-form]')) {
